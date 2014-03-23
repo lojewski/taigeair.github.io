@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: taigeair - Exploring the world. 
 markdown: redcarpet
 pygments: true
+permalink: /:title
