@@ -6,17 +6,17 @@
 
 /* Global Reset */
 * {
-  margin: 0;
-  padding: 0;
 }
 
 html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center;
+  width: 100%;
+  font: 13.3px Helvetica, Arial, sans-serif;
+  text-align: left;
+  margin : 0 auto;
+  padding : 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,12 +56,32 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
-  text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
+  font-size: 1.3em;
+  text-align: left;
+  width: 90%;
+  margin: 30px 5%;
   line-height: 1.5em;
 }
+
+.header {
+  position: relative;
+  float:left;
+  width: 20%;
+  min-width: 240px;
+  margin-right: 2.5%;
+  background-color:orange;
+  overflow: hidden;
+}
+
+.main {
+  position: relative;
+  float: left;
+  width: 65%;
+  //min-width: 400px;
+  background-color: grey;
+}
+
+
 
 .header a {
   font-weight: bold;
@@ -95,6 +115,7 @@ a:visited { color: #a0a; }
 }
 
 .footer {
+  clear: left;
   font-size: 80%;
   color: #666;
   border-top: 4px solid #eee;
@@ -120,6 +141,7 @@ a:visited { color: #a0a; }
 .footer .rss img {
   border: 0;
 }
+
 
 /*****************************************************************************/
 /*
@@ -158,3 +180,34 @@ a:visited { color: #a0a; }
 .post pre.terminal code {
   background-color: #333;
 }
+
+
+
+
+#me{
+  width: 100%;
+  border-radius: 2px;
+}
+
+/*****************************************************************************/
+/*
+/* Responsive
+/*
+/*****************************************************************************/
+
+@media only screen and (max-width: 820px) {
+  .main, .header {
+    width:100%;
+  }
+
+  .bio-top {
+    height: 295px;
+    overflow: hidden;
+    width: auto;
+  }
+  .bio-bottom{
+    margin-top:-25px;
+  }
+}
+
+

@@ -1,4 +1,7 @@
-name: taigeair - Exploring the world. 
+name: taigeair
+description: Exploring the world
+author: Taige Zhang
+analytics: X
 markdown: redcarpet
 pygments: true
 permalink: /:title
