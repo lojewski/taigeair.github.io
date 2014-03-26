@@ -11,6 +11,9 @@
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
+        <link href='http://fonts.googleapis.com/css?family=Oxygen:400,300' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300italic,300' rel='stylesheet' type='text/css'>
+
 
     </head>
     <body>
@@ -18,37 +21,34 @@
         <div class="site">
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <div class="bio-top">
+            <p>Exploring the world. Product manager at tech company. Mapmaker at Wellingtons Travel Co.</p>
+            <div class="bio-photo">
             <img id="me" src="/assets/taigeair.jpg" />
             </div>
-
             <div class="bio-bottom">
-            <a class="extra" href="/">home</a>
-            <a class="extra" href="/">home</a>
-            <a class="extra" href="/">home</a>
-            <a class="extra" href="/">home</a>
+              <ul>
+                <li><a href="/">home</a></li>
+                <li><a href="/">projects</a></li>
+                <li><a href="/">about</a></li>
+              </ul>
             </div>
-            <div class="bio-bottom">
-            </div>
+            <div class="dolla">
             <p>Talk the talk</p>
-
+            </div>
           </div>      
           <div class="main">
             {{ content }}
+          <div class="section">
+            <p>Popular posts</p>
           </div>
+          {% if page.type != "post" %}
+          {% include extras.html %}
+          {% endif %}
+          </div>
+
           <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
+            <div style="text-align:center;">
+              <p>Thanks for reading! Have a great day.</p>
             </div>
           </div>
         </div>

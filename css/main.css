@@ -13,7 +13,8 @@ html, body { height: 100%; }
 body {
   background-color: #FFF;
   width: 100%;
-  font: 13.3px Helvetica, Arial, sans-serif;
+  font-family: 'Merriweather', serif;
+  font: 13.3px;
   text-align: left;
   margin : 0 auto;
   padding : 0;
@@ -69,9 +70,38 @@ a:visited { color: #a0a; }
   width: 20%;
   min-width: 240px;
   margin-right: 2.5%;
-  background-color:orange;
+  background-color: white;
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 300;
   overflow: hidden;
 }
+
+.bio-photo{
+
+}
+
+.bio-bottom {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 300;
+  font-size: .8em;
+  margin-top: -25px;
+}
+
+.bio-bottom ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+.bio-bottom li {
+  display: inline;
+}
+
+.bio-bottom a {
+color: grey;
+font-family: 'Oxygen', sans-serif;
+font-weight: 300;
+padding-right: 5%;
+}
+
 
 .main {
   position: relative;
@@ -81,16 +111,35 @@ a:visited { color: #a0a; }
   background-color: grey;
 }
 
+.section {
+  float: left;
+  width: 100%%;
+  background-color: blue; 
+}
+.half {
+  float: left;
+  padding: 0;
+  margin: 0;
+  background-color: pink;
+  width: 50%; 
+}
 
+.header p {
+  margin-top:-27px;
+  color: #282828;
+  line-height: 1.17em;
+  font-size: 1em;
+  padding-top: .7em;
+}
 
 .header a {
-  font-weight: bold;
   text-decoration: none;
 }
 
 .title {
   display: inline-block;
-  margin-bottom: 2em;
+  margin-top: 0;
+  margin-bottom: 1.3em;
 }
 
 .title a {
@@ -115,11 +164,12 @@ a:visited { color: #a0a; }
 }
 
 .footer {
+  position: relative;
   clear: left;
   font-size: 80%;
   color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 2em;
+  border-top: 1px solid #eee;
+  top: 2em;
   overflow: hidden;
 }
 
@@ -200,13 +250,18 @@ a:visited { color: #a0a; }
     width:100%;
   }
 
-  .bio-top {
+  .bio-photo{
     height: 295px;
     overflow: hidden;
     width: auto;
   }
-  .bio-bottom{
-    margin-top:-25px;
+  .bio-bottom {
+    margin-top:-50px;
+  }
+  .bio-bottom a{
+    padding-left: 5%;
+    color: seashell;
+    font-weight: 400;
   }
 }
 
