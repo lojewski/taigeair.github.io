@@ -28,7 +28,7 @@
             <div class="bio-bottom">
               <ul>
                 <li><a href="/">home</a></li>
-                <li><a href="/">projects</a></li>
+                <li><a href="/projects.html">projects</a></li>
                 <li><a href="/">about</a></li>
               </ul>
             </div>
@@ -36,15 +36,21 @@
             <p>Talk the talk</p>
             </div>
           </div>      
+          <!--
+          <div class="prev"></div>
+          <div class="next"></div>
+          -->
           <div class="main">
             {{ content }}
           <div class="section">
             <p>Popular posts</p>
           </div>
-          {% if page.type != "post" %}
+          {% if page.type == "front" %}
           {% include extras.html %}
           {% endif %}
           </div>
+
+
 
           <div class="footer">
             <div style="text-align:center;">

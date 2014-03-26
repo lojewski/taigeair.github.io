@@ -1,11 +1,10 @@
 ---
 layout: default
-type: front
 title: taigeair - Exploring the world. Working in tech. 
 ---
 
-<div id="home">
-  <h1>Newest Articles</h1>
+<div id="projects">
+  <h1>Projects</h1>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>

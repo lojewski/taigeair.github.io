@@ -22,14 +22,29 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
-  font-size: 100%; }
+  font-size: .8em;
+  line-height: 1.3em;
+}
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: red;
+            text-decoration: none;
+            cursor: pointer;
+            transition: .3s background;
+            -webkit-transition: .3s background;
+            -moz-transition: .3s background;
+            -ms-transition: .3s background;
+            -o-transition: .3s background;
+            transition-delay: 0;
+            -webkit-transition-delay: 0;
+            -moz-transition-delay: 0;
+            -ms-transition-delay: 0;
+            -o-transition-delay: 0;
+          }
+a:visited { color: purple; }
+
 
 /*****************************************************************************/
 /*
@@ -37,8 +52,9 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 .posts {
+  margin: 0;
+  padding-left: 0;
   list-style-type: none;
-  margin-bottom: 2em;
 }
 
 .posts li {
@@ -58,7 +74,7 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 .site {
-  font-size: 1.3em;
+  font-size: 1.25em;
   text-align: left;
   width: 90%;
   margin: 30px 5%;
@@ -233,7 +249,26 @@ padding-right: 5%;
 }
 
 
+.prev {
+  position: fixed;
+  top: 50%;
+  left: 0;
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  opacity: .1;
 
+}
+
+.next {
+  position: fixed;
+  top: 50%;
+  right: 0;
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  opacity: .1;
+}
 
 #me{
   width: 100%;
@@ -265,5 +300,18 @@ padding-right: 5%;
     font-weight: 400;
   }
 }
+
+/*****************************************************************************/
+/*
+/* Animate
+/*
+/*****************************************************************************/
+
+
+a:hover { color: tomato; }
+a:active { color: tomato;
+            position: relative;
+            top: 1px;
+          }
 
 
