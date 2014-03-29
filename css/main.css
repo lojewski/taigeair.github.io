@@ -170,9 +170,33 @@ transition-delay: 0.2;
 
 .section {
   float: left;
-  width: 100%%;
-  background-color: blue; 
+  width: 94%%;
+  background-color: aliceblue;
+  border-radius: 3px;
+  font-size: .75em;
+  padding: 3%;
+
 }
+
+.section h2 {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.35em;
+}
+
+.section ul {
+  margin: 0;
+  padding: 0;
+}
+
+.section ul li {
+  text-align: left;
+  width: 30%;
+  float: left;
+  display: inline;
+  margin-right: 3%;
+  padding: 13px 0;
+}
+
 .half {
   float: left;
   padding: 0;
@@ -184,8 +208,8 @@ transition-delay: 0.2;
 .header p {
   margin-top:-27px;
   color: #282828;
-  line-height: 1.17em;
-  font-size: 1em;
+  line-height: 1.38em;
+  font-size: .91em;
   padding-top: .7em;
 }
 
@@ -228,7 +252,6 @@ transition-delay: 0.2;
     color: black;
 }
 
-
 .title a:before {
   content: "";
   position: absolute;
@@ -261,26 +284,8 @@ h2 > a:hover:before, .title a:hover:before {
   color: #666;
   border-top: 1px solid #eee;
   top: 2em;
+  padding: 10px 0;
   overflow: hidden;
-}
-
-.footer .contact {
-  float: left;
-  margin-right: 3em;
-}
-
-.footer .contact a {
-  color: #8085C1;
-}
-
-.footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.footer .rss img {
-  border: 0;
 }
 
 
@@ -320,28 +325,6 @@ h2 > a:hover:before, .title a:hover:before {
 
 .post pre.terminal code {
   background-color: #333;
-}
-
-
-.prev {
-  position: fixed;
-  top: 50%;
-  left: 0;
-  background-color: red;
-  width: 50px;
-  height: 50px;
-  opacity: .1;
-
-}
-
-.next {
-  position: fixed;
-  top: 50%;
-  right: 0;
-  background-color: red;
-  width: 50px;
-  height: 50px;
-  opacity: .1;
 }
 
 #me{

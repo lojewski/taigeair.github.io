@@ -34,7 +34,7 @@
               <ul>
                 <li><a href="/">home</a></li>
                 <li><a href="/projects.html">projects</a></li>
-                <li><a href="/">about</a></li>
+                <li><a href="/about/">about</a></li>
               </ul>
             </div>
             <div class="dolla">
@@ -45,9 +45,7 @@
             {{ content }}
 
             {% if page.type == "post" %}
-              <div class="section">
-              <p>Popular posts</p>
-              </div>
+            {% include popular-posts.html %}
             {% endif %}
 
           </div>
@@ -56,7 +54,8 @@
 
           <div class="footer">
             <div style="text-align:center;">
-              <p>Thanks for reading! Have a great day.</p>
+              <p>Thanks for reading! Have a great day.<br><p>
+              <p><a href="https://twitter.com/taigeair" class="twitter-follow-button" data-show-count="false" data-lang="en">@taigeair</a></p>
             </div>
           </div>
         </div>
