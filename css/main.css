@@ -22,12 +22,16 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
-  font-size: .8em;
+  font-size: 1.37em;
   line-height: 1.3em;
 }
 
 h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
+p { 
+    font-size: .86em;
+    margin: .8em 0;
+    line-height: 1.61em;
+  }
 
 a         { color: red;
             text-decoration: none;
@@ -86,11 +90,40 @@ a:visited { color: black; }
   float:left;
   width: 20%;
   min-width: 240px;
-  margin-right: 2.5%;
+  margin-right: 4.79%;
   background-color: white;
   font-family: 'Oxygen', sans-serif;
   font-weight: 300;
   overflow: hidden;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  transition-delay: 0.2;
+  -webkit-transition-delay: 0.2;
+  -moz-transition-delay: 0.2;
+  -ms-transition-delay: 0.2;
+  -o-transition-delay: 0.2;
+
+}
+
+.top {
+  display: inline;
+  position: fixed;
+  bottom: 13px;
+  right: 13px;
+  z-index: 500;
+  -webkit-transition-duration: 0.6s;
+  transition-duration: 0.6s;
+  transition-delay: .6s;
+  -webkit-transition-delay: .6s;
+  -moz-transition-delay: .6s;
+  -ms-transition-delay: .6s;
+  -o-transition-delay: .6s;
+}
+
+.top.pre-animation {
+  -webkit-transform: translateX(50px);
+  transform: translateX(50px);
+  opacity: 0;
 }
 
 .bio-photo{
@@ -125,8 +158,14 @@ padding-right: 5%;
   position: relative;
   float: left;
   width: 65%;
-  //min-width: 400px;
-  background-color: grey;
+  background-color: white;
+-webkit-transition-duration: 0.2s;
+transition-duration: 0.2s;
+transition-delay: 0.2;
+-webkit-transition-delay: 0.2;
+-moz-transition-delay: 0.2;
+-ms-transition-delay: 0.2;
+-o-transition-delay: 0.2;
 }
 
 .section {
@@ -310,13 +349,21 @@ h2 > a:hover:before, .title a:hover:before {
   border-radius: 3px;
 }
 
+.divider {
+  clear: both;
+  height: 20px;
+  background: url(/assets/divider.png) no-repeat center 2px;
+  text-align: center;
+  margin: 50px;
+}
+
 /*****************************************************************************/
 /*
 /* Responsive
 /*
 /*****************************************************************************/
 
-@media only screen and (max-width: 820px) {
+@media only screen and (max-width: 882px) {
   .main, .header {
     width:100%;
   }
@@ -386,4 +433,24 @@ a:active { color: tomato;
   }
 }
 
+.shrink{
+  width: 0%;
+  min-width: 0; 
+  margin: 0;
+  opacity: 0;
+  -webkit-transform: translateX(-30px);
+  transform: translateX(-30px);
+}
 
+.grow {
+  width: 100%;
+}
+
+.go-top {
+border-radius: 3px;
+text-decoration: none;
+background-color: #21dcc7;
+padding: 6px 12px 7px;
+opacity: 0.5;
+font-size: 14px;
+}

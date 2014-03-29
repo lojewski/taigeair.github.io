@@ -22,8 +22,8 @@
 
     </head>
     <body>
-
         <div class="site">
+          <div class="top pre-animation"><a href="../#top" class="go-top" style="display: inline;">↑</a></div>
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
             <p>Exploring the world. Product manager at tech company. Mapmaker at Wellingtons Travel Co.</p>
@@ -41,18 +41,15 @@
             <p>Talk the talk</p>
             </div>
           </div>      
-          <!--
-          <div class="prev"></div>
-          <div class="next"></div>
-          -->
           <div class="main">
             {{ content }}
-          <div class="section">
-            <p>Popular posts</p>
-          </div>
-          {% if page.type == "front" %}
-          {% include extras.html %}
-          {% endif %}
+
+            {% if page.type == "post" %}
+              <div class="section">
+              <p>Popular posts</p>
+              </div>
+            {% endif %}
+
           </div>
 
 
