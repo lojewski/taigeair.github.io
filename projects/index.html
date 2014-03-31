@@ -1,0 +1,22 @@
+---
+layout: default
+title: taigeair - Exploring the world. Working in tech. 
+---
+
+<div id="projects">
+  <h1 class="project">Projects</h1>
+  <h2>FriendQuest</h2>
+  <h2>Kera User Onboarding Expert</h2>
+  <h2>Wellingtons Travel</h2>
+  <h2>MifiClub</h2>
+  <h2>Startup Center</h2>
+  <h2>ufashion</h2>
+  <h2>London Flagship Stores</h2>
+  <h2>Secret Flights</h2>
+  <h2>Blog posts on this site</h2>
+  <ul>
+    {% for post in site.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_string }}</li>
+    {% endfor %}
+  </ul>
+</div>

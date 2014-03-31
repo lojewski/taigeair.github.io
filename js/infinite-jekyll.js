@@ -114,9 +114,12 @@ Shrink Grow Stuff
 jQuery(document).ready(function(){
       //when scroll past point, make full width
       var headerPosition = jQuery('.dolla').offset().top;
+      var scrollBottom = 0;
+      var nearBottom = jQuery('.footer').offset().top;
 
       var stickyNav = function(){
       var scrollPosition = jQuery(window).scrollTop();
+      var scrollBottom = $(window).scrollTop() + $(window).height();
       if (scrollPosition > headerPosition) {
       jQuery('.main').addClass('grow');
       jQuery('.header').addClass('shrink');
@@ -126,8 +129,14 @@ jQuery(document).ready(function(){
       jQuery('.header').removeClass('shrink');
       jQuery('.top').addClass('pre-animation');
         }
+
+      if (scrollBottom + 60 > nearBottom){
+        jQuery('.section.pre-animation').removeClass('pre-animation');
+      }
       };
-    
+      
+
+
       $(window).bind("load resize scroll",function(e){
           //ignore if mobile view
           if(jQuery(window).width() > 884) {
