@@ -18,6 +18,7 @@ body {
   text-align: left;
   margin : 0 auto;
   padding : 0;
+  -webkit-backface-visibility:hidden
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -320,8 +321,8 @@ h2 > a:hover:before, .title a:hover:before {
   overflow: hidden;
 }
 
-.c {
-  text-align: center;
+.post img{
+	width:100%;
 }
 
 .post pre {
