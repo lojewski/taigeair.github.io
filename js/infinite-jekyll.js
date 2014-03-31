@@ -117,9 +117,8 @@ jQuery(document).ready(function(){
       var scrollBottom = 0;
       var nearBottom = jQuery('.footer').offset().top;
 
-      var stickyNav = function(){
-      var scrollPosition = jQuery(window).scrollTop();
-      var scrollBottom = $(window).scrollTop() + $(window).height();
+      var stickyNav = function(x){
+      var scrollPosition = x;
       if (scrollPosition > headerPosition) {
       jQuery('.main').addClass('grow');
       jQuery('.header').addClass('shrink');
@@ -130,18 +129,24 @@ jQuery(document).ready(function(){
       jQuery('.top').addClass('pre-animation');
         }
 
-      if (scrollBottom + 60 > nearBottom){
-        jQuery('.section.pre-animation').removeClass('pre-animation');
-      }
+
       };
       
 
 
       $(window).bind("load resize scroll",function(e){
+          var scrollPosition = jQuery(window).scrollTop();
+          var scrollBottom = $(window).scrollTop() + $(window).height();
+
+          console.log(scrollPosition);
           //ignore if mobile view
           if(jQuery(window).width() > 884) {
-          stickyNav();
+          stickyNav(scrollPosition);
           };
+
+          if (scrollBottom + 180 > nearBottom){
+          jQuery('.section.pre-animation').removeClass('pre-animation');
+      }
       });
 
 
