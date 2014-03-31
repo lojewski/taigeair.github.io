@@ -320,6 +320,10 @@ h2 > a:hover:before, .title a:hover:before {
   overflow: hidden;
 }
 
+.c {
+  text-align: center;
+}
+
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
