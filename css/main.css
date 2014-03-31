@@ -317,6 +317,7 @@ h2 > a:hover:before, .title a:hover:before {
 
 .post {
   clear: both;
+  overflow: hidden;
 }
 
 .post pre {
@@ -368,7 +369,7 @@ h2 > a:hover:before, .title a:hover:before {
   display: block;
   position: relative;
   margin: 0 auto;
-  height: 80px;
+  height: 85px;
 }
 p.smallguy{
   padding: 5px;
