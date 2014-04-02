@@ -1,0 +1,18 @@
+---
+layout: post
+type: post
+title:  "Stitcher"
+date:   2012-08-26 14:33:19
+categories: life, tech	music app, stitcher
+---
+My favourite music/audio apps are <a href="http://songza.com">Songza</a>, Shazam, TuneIn Radio, and now it includes <a href="http://www.stitcher.com/">Stitcher</a>. It's like personalised podcasts without the downloading. Based in SF, they actually started a long time ago in 2008 and have raised $18 million to date.
+
+<img src="{{site.url}}/assets/posts/stitcher.png">
+
+Originally I thought it was a way for people to consume their favourite news websites by listening. They should create a tool that allows writers to record audio versions for each of their articles and then add a link to the webpage directing the user to the Stitcher episode. From there the user can listen to it and then subscribe. 
+
+It's a great way for the writer to build an audience and great for people who are too busy or tired to read their favourite news, whether it Techcrunch, BleacherReport, Time, or TMZ. Once subscribed, the user can get pushed news articles to listen to, share, and interact with the story. Stitcher benefits from additional publicity and traffic by building this functionality. 
+
+And if worse comes to party, text-to-speech might also be an option. If the writer doesn't have time or feel comfortable reading aloud their work. A wordpress plugin that creates an audio file of your post and sends it to Stitcher would be nice. Alternatively, you could even crowd source/contract someone to read aloud your article for $5-15 each. Could be an interesting job. There was actually a startup called <a href="https://www.facebook.com/pages/42Voices/132775390071287">42voices</a> that was trying to make a voice actor marketplace. Unfortunately, it's not around anymore.
+
+I like it but think this app still has a lot of room for improvement in its UI and usability, content, and social components.

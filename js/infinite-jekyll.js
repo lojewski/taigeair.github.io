@@ -119,7 +119,7 @@ jQuery(document).ready(function(){
 
       var stickyNav = function(x){
       var scrollPosition = x;
-      if (scrollPosition > headerPosition) {
+      if (scrollPosition > headerPosition + 160) {
       jQuery('.main').addClass('grow');
       jQuery('.header').addClass('shrink');
       jQuery('.top').removeClass('pre-animation');
@@ -137,14 +137,15 @@ jQuery(document).ready(function(){
       $(window).bind("load resize scroll",function(e){
           var scrollPosition = jQuery(window).scrollTop();
           var scrollBottom = $(window).scrollTop() + $(window).height();
-
-          console.log(scrollPosition);
+          /*      console.log(headerPosition);
+                  console.log(scrollPosition);
+          */
           //ignore if mobile view
           if(jQuery(window).width() > 884) {
           stickyNav(scrollPosition);
           };
 
-          if (scrollBottom + 180 > nearBottom){
+          if (scrollBottom > nearBottom){
           jQuery('.section.pre-animation').removeClass('pre-animation');
       }
       });

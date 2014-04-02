@@ -53,6 +53,17 @@ hr {
     border: 1px solid #eee;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  -webkit-padding-start: 0;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -140,10 +151,11 @@ hr {
   margin-top: -20px;
 }
 
-.bio-bottom ul {
-  margin-left: 0;
+.bio-bottom > ul {
+  margin: 1em 0;
   padding-left: 0;
 }
+
 .bio-bottom li {
   display: inline;
 }
@@ -307,6 +319,32 @@ h2 > a:hover:before, .title a:hover:before {
 #projects h2 {
   font-size: 1.1em;
 }
+
+table {
+    font-size: .65em;
+    border-bottom: 1px solid #ccc;
+    margin: 0 0 20px;
+    width: 100%;
+}
+
+
+tbody {
+  border: 0;
+font-family: inherit;
+font-size: 100%;
+font-style: inherit;
+font-weight: inherit;
+margin: 0;
+outline: 0;
+padding: 0;
+vertical-align: baseline;
+}
+
+tbody td { 
+border-top: 1px solid #ccc;
+padding: 6px 10px 6px 0;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
@@ -368,6 +406,9 @@ h2 > a:hover:before, .title a:hover:before {
   margin: 50px;
 }
 
+.c {
+  text-align: center;
+}
 .dolla {
   width: 234px;
   display: block;
