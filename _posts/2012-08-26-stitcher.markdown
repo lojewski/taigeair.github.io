@@ -7,7 +7,7 @@ categories: life, tech	music app, stitcher
 ---
 My favourite music/audio apps are <a href="http://songza.com">Songza</a>, Shazam, TuneIn Radio, and now it includes <a href="http://www.stitcher.com/">Stitcher</a>. It's like personalised podcasts without the downloading. Based in SF, they actually started a long time ago in 2008 and have raised $18 million to date.
 
-<img src="{{site.url}}/assets/posts/stitcher.png">
+<center><img src="{{site.url}}/assets/posts/stitcher.png"></center>
 
 Originally I thought it was a way for people to consume their favourite news websites by listening. They should create a tool that allows writers to record audio versions for each of their articles and then add a link to the webpage directing the user to the Stitcher episode. From there the user can listen to it and then subscribe. 
 

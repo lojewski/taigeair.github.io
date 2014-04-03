@@ -10,7 +10,7 @@ categories: europe, low cost airline, startup
 
 This will be a strong competitor to <a href="http://www.skyscanner.net" target="_blank">Skyscanner</a>, <a href="http://www.opodo.co.uk/" target="_blank">Opodo</a> and <a href="http://www.kayak.com/" target="_blank">Kayak</a> for flight searches in Europe. 
 
-<a href="http://skypicker.com" target="_blank"><img src="{{site.url}}/assets/posts/Skypicker-Berlin-1024x599.jpg" ></a>
+<a href="http://skypicker.com" target="_blank"><center><img src="{{site.url}}/assets/posts/Skypicker-Berlin-1024x599.jpg" ></center></a>
 
 While it's great to find cheap deals and search low cost carriers, the wow factor here is Skypicker allows travellers who don’t care about specific date to find good deals.
 

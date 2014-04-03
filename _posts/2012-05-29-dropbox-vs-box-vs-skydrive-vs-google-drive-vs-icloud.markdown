@@ -34,7 +34,7 @@ Example:
 
 <a href="https://www.icloud.com/" title="iCloud" target="_blank">iCloud</a> is Apple's effort to make file syncing easy and powerful across iPad, iPhone, Macs, etc. You just turn it on and it syncs. It's pretty useful for backing up all your apps, messages, etc. I believe it is 5GB free for backups but somehow I have 25GB maybe because I used to have Mobileme as a former Apple employee? Not sure. Anyways, iCloud is a lot more seamless and more for backup and apps than for direct file sync. But even then, it's pretty much just a wireless backup service. I don't have the same apps installed on my computer as on my iPhone. So if I'm playing a game on my iPhone can I continue it on my computer or iPad? And Photo Stream syncs your iPhone pictures with other devices but I don't really know how to access it from my computer... I don't even use iPhoto... So yeah Apple also needs to work on it's cloud services.
 
-<p class="c"><img src="{{site.url}}/assets/posts/iCloud-Pricing.png" title="iCloud Pricing" ></p>
+<center><img src="{{site.url}}/assets/posts/iCloud-Pricing.png" title="iCloud Pricing" ></center>
 
 
 Here's a quick summary:

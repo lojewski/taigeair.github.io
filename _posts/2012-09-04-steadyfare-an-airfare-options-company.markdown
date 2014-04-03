@@ -12,7 +12,7 @@ Their service is interesting to anyone who is price conscious but may not want t
 
 With Steadyfare, users choose when they would like to travel and buy the "option" which locks in the fare price. Later the users can decide whether or not to book the flight as planned. 
 
-<img src="{{site.url}}/assets/posts/Steadyfare-Option.jpg" alt="" title="Steadyfare Option" >
+<center><img src="{{site.url}}/assets/posts/Steadyfare-Option.jpg" alt="" title="Steadyfare Option" ></center>
 
 Currently, travelers can search for flights booked from NYC, Los Angeles and San Francisco to a variety of international destinations. They also can't see the exact flight times, number of connections or the airline they'll be flying with until the book the ticket. However, the company says those options are coming.
 

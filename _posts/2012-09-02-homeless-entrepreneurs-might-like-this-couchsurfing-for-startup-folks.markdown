@@ -10,7 +10,7 @@ Here's an interesting idea CouchSurfing for entrepreneurs. <a href="https://star
 
 Startup Stay lets its members find hosts to stay or arrange coffee meetings with. Unlike CouchSurfing which can be frustrating to use and Airbnb which can be fun and friendly, but costily. This is a great alternative to people who want to save money and meet new connections in business. 
 
-<img src="{{site.url}}/assets/posts/Startup-Stay.jpg" alt="" title="Startup Stay">
+<center><img src="{{site.url}}/assets/posts/Startup-Stay.jpg" alt="" title="Startup Stay"></center>
 <br>
 
 <blockquote>"We want to make sure that we spark new connections, friendships and collaborations as a result of entrepreneurs meeting face to face," <a href="http://uk.linkedin.com/in/fredcaballero">Co-Founder Fred Caballero</a> said. "The value is in the unique network experiencing, being able to gain insight not only for your business but other businesses and the city you're traveling to." </blockquote>

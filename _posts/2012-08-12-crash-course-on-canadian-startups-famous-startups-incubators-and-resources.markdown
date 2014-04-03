@@ -5,7 +5,8 @@ title:  "Crash Course on Canadian Startups: Famous Startups, Incubators, and Res
 date:   2012-08-12 14:33:19
 categories: tech
 ---
-<img title="Canadian Startup" src="{{site.url}}/assets/posts/arctic-ocean-nansen_8002_990x7421.jpg" alt="" >
+<center><img title="Canadian Startup" src="{{site.url}}/assets/posts/arctic-ocean-nansen_8002_990x7421.jpg" alt="" ></center>
+
 <h3>What are the best tech startups in Canada?</h3>
 The ones that most tech people in the US I think would know about are:
 <a href="http://www.rim.com">RIM (originally)</a>

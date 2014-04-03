@@ -10,13 +10,13 @@ categories: startup, travel site
 
 Andrew calls it: A smart "Kayak" for tailored deals when you don't know where or when you want to go!
 
-<img src="{{site.url}}/assets/posts/ZapTravel-Search-1024x609.png" alt="ZapTravel Search">
+<center><img src="{{site.url}}/assets/posts/ZapTravel-Search-1024x609.png" alt="ZapTravel Search"></center>
 
 For me the site is mostly a pleasure to use because it makes searching and browsing for deals fun. Unlike most travel sites where searching for deals is a pain and you want to spend the least amount of time on there as possible, this makes it actually an enjoyable experience. 
 
 It's brillant visually. Its top sights to see section uses user-generated content and information from Frommers. There's some cool features such as allowing you to swap out hotels and add deals to wishlist as well.
 
-<img src="{{site.url}}/assets/posts/ZapTravel-Locations-1024x694.png" alt="ZapTravel Locations" >
+<center><img src="{{site.url}}/assets/posts/ZapTravel-Locations-1024x694.png" alt="ZapTravel Locations" ></center>
 
 I think there's a lot of great potential for this startup, could be like Kayak one day. At this point though, its semantic search isn't very impressive and deals are often "no longer available". I think these issues will get better over time but it is still a very impressive site overall.
 

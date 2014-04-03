@@ -5,7 +5,7 @@ title:  "List of Uber Like Alternatives or Clones"
 date:   2012-06-11 14:33:19
 categories: cabulous, gettaxi, lyft, mobile, mobile-taxi-app, sidecar, taxi, uber
 ---
-<img src="{{site.url}}/assets/posts/Uber-app-screenshot.png" alt="" title="Uber-app-screenshot" >
+<center><img src="{{site.url}}/assets/posts/Uber-app-screenshot.png" alt="" title="Uber-app-screenshot" ></center>
 
 Uber is by far the best app for private taxi service in terms of user experience, availability and reach. I've tried a lot of them because I keep getting invites and decided to do some comparison. They usually give you $10 free credit for signing via invite up so I've taken the time to provide you with links that include an embedded promo code / referral.
 

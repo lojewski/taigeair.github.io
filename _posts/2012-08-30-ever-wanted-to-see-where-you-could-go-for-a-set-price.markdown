@@ -9,4 +9,4 @@ There's a pretty interesting startup called <a href="http://flocations.com/">Flo
 
 It's pretty neat but isn't really working for most airports. It's a good tool to use once they add more airports and make the flight searches more usable in terms of speed and bugs. 
 
-<img src="{{site.url}}/assets/posts/Flight-Visualization.jpg" alt="" title="Flight Visualization" ></a>
+<center><img src="{{site.url}}/assets/posts/Flight-Visualization.jpg" alt="" title="Flight Visualization" ></center></a>

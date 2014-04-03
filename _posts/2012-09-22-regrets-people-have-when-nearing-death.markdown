@@ -8,7 +8,7 @@ categories:
 
 I found this article somewhere. Not sure original source but it's been posted around. I hope we can learn something from this. For me, I'd say I need to pay more attention to 1, 2, and 5.
 
-<img src="{{site.url}}/assets/posts/BEACH.jpg" alt="" title="BEACH" >
+<center><img src="{{site.url}}/assets/posts/BEACH.jpg" alt="" title="BEACH" ></center>
 
 <em>When questioned about any regrets they had or anything they would do differently, common themes surfaced again and again. Here are the most common five:</em>
 

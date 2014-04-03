@@ -6,7 +6,7 @@ date:   2013-02-09 14:33:19
 categories: happiness, happy, meaning, life
 ---
 
-<img src="{{site.url}}/assets/posts/305183_530384240328360_1787775538_n.jpeg" alt="Sometimes I look at myself in the mirror, and I wonder: How the fuck did I ever become this awesome?"> 
+<center><img src="{{site.url}}/assets/posts/305183_530384240328360_1787775538_n.jpeg" alt="Sometimes I look at myself in the mirror, and I wonder: How the fuck did I ever become this awesome?"></center>
 
 <p>I know this blog is about travel and tech and ideas. But here's another personal post. You know how sometimes things creep up on you? Something crept up on me.</p>
 
@@ -18,19 +18,22 @@ categories: happiness, happy, meaning, life
 <strong>Statistics</strong>
 <p>I am 26 years old at the moment. By all accounts this is my prime. If I were a woman, it would probably be 22 or 23 but for a guy, I believe I am probably at a pretty good point in my life.</p>
 
-<img src="{{site.url}}/assets/posts/Desirability.png" alt="How a Person&#039;s Desirability Changes With Time" width="472" height="407" class="size-full wp-image-358" /> How a Person's Desirability Changes With Time
+<center><img src="{{site.url}}/assets/posts/Desirability.png" alt="How a Person&#039;s Desirability Changes With Time" width="472" height="407"></center>
+How a Person's Desirability Changes With Time
 
 <p>The <a href="http://blog.okcupid.com/index.php/the-case-for-an-older-woman/" target="_blank">graph from OKCupid shows the desirability of guys and girls</a> based on age. Desirabilty here is based on sex appeal but I believe sex appeal is based on a combination of factors from maturity, to identity, to material wealth, to status, to <a href="http://youtu.be/sOPbiguNZKg?t=6s" target="_blank">nunchuck skills</a>, to personality, to availability. It can be a proxy for a person's overall well-being.</p>
 
 <p>I would reference this piece of research from the Economist but it seems cursory to me. As noted: "A 70-year-old European may feel different to a 30-year-old not because he is older, but because he grew up during the second world war and was thus formed by different experiences." To me, all this graph explains is the mid-life crisis. You can <a href="http://www.economist.com/node/17722567" target="_blank">read it in detail</a> if you want.</p>
 
-<a href="http://www.economist.com/node/17722567"><img src="{{site.url}}/assets/posts/20101218_xjc736.gif" alt="Age and Happiness" width="290" height="281" class="aligncenter size-full wp-image-380" ></a>
+<a href="http://www.economist.com/node/17722567"><center><img src="{{site.url}}/assets/posts/20101218_xjc736.gif" alt="Age and Happiness" width="290" height="281" ></center></a>
 
 <p>My old AP Psychology teacher from Gunn High School, Mr. Herbert was amazing. I still remember him telling me the twenties are the most stressful time for people and it gets a lot better in your thirties. Today I looked it up and here's the facts from the Pew Research Center:
 
-<img src="{{site.url}}/assets/posts/Percentage-Very-Happy-By-Age.png" alt="There are modest differences in happiness by age. Adults under 30 are less likely to be happy."> There are modest differences in happiness by age. Adults under 30 are less likely to be happy.
+<center><img src="{{site.url}}/assets/posts/Percentage-Very-Happy-By-Age.png" alt="There are modest differences in happiness by age. Adults under 30 are less likely to be happy."></center>
+There are modest differences in happiness by age. Adults under 30 are less likely to be happy.
 
-<img src="{{site.url}}/assets/posts/Happiness-Betwen-Men-and-Women-Over-Time.png" alt="Young Men Least Happy. Young men are less likely to be very happy than other men. Among women, there are smaller differences in happiness ratings by age."> Young men are less likely to be very happy than other men (are). Among women, there are smaller differences in happiness ratings by age.
+<center><img src="{{site.url}}/assets/posts/Happiness-Betwen-Men-and-Women-Over-Time.png" alt="Young Men Least Happy. Young men are less likely to be very happy than other men. Among women, there are smaller differences in happiness ratings by age."></center>
+Young men are less likely to be very happy than other men (are). Among women, there are smaller differences in happiness ratings by age.
 
 <center>Sources: <a href="http://www.pewsocialtrends.org/files/2012/02/SDT-Youth-and-Economy.pdf">Young, Underemployed and Optimistic. Coming of Age, Slowly, in a Tough Economy (2012)</a> and <a href="http://pewresearch.org/files/old-assets/social/pdf/AreWeHappyYet.pdf" target="_blank">Are We Happy Yet? (2006)</a></center>
 
@@ -44,7 +47,7 @@ But the more I looked, the more statistics I found, the more I realise how littl
 <a href="http://www.economist.com/node/17722567" target="_blank">Economist</a>:
 <blockquote>A study comparing similar groups of British, Chinese and Japanese people found that the British were, on average, both more extrovert and happier than the Chinese and Japanese</blockquote>
 
-<a href="http://www.economist.com/node/17722557"><img src="{{site.url}}/assets/posts/20101218_xjc725.gif" alt="Happiness Based on Country"></a>
+<a href="http://www.economist.com/node/17722557"><center><img src="{{site.url}}/assets/posts/20101218_xjc725.gif" alt="Happiness Based on Country"></center></a>
 
 Oh hey Economist, you left out Canada! Thanks. And I'll ignore your comment on <a href="http://www.youtube.com/watch?v=JH2Mlj9BOIw" target="_blank">Asians -- at least Family Guy knows what's what</a>. And you realise you're referencing a "working paper" that's pulling data from another study...
 
@@ -57,7 +60,7 @@ Oh hey Economist, you left out Canada! Thanks. And I'll ignore your comment on <
 
 Is my happiness because I'm Asian, under 30, highly educated, employed, unmarried, religious, in Canada, and have long 5HTT alleles? These findings are interesting but not very applicable because people find happiness in different things. Some people want to be married and some people not. Some people <a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/07/12/AR2008071201630.html" target="_blank">want to work</a> and some not. Plus I'm not an average. So I said F* it and I made my own infographic of "Happiness Over Time based on Life Events" based on what I observed in my 26 years on this planet.
 
-<img src="{{site.url}}/assets/posts/Money-and-Freedom-Infographic-1024x948.jpg" alt="People have more freedom and money as they age. Awesomeness begins when you have more money and power than time." width="710" height="657" class="size-large wp-image-388" />People have more freedom and money as they age. Awesomeness begins when you have more money and power than time.
+<center><img src="{{site.url}}/assets/posts/Money-and-Freedom-Infographic-1024x948.jpg" alt="People have more freedom and money as they age. Awesomeness begins when you have more money and power than time." width="710" height="657"></center>People have more freedom and money as they age. Awesomeness begins when you have more money and power than time.
 
 <p>I believe money is a faciliator. When we're young, we're held back by money and other resources. As we age, we accumlate more resources that allows us to do what we want and if we have the time (freedom), then that's when you feel awesome.</p>
 
@@ -87,7 +90,7 @@ I believe 4 things contribute to higher purpose and living a happy life with mea
 
 1. Fighting & Conflict - I actually enjoy fighting what I consider to be evil or injust. I think it is <a href="http://www.imdb.com/title/tt0454876/" target="_blank">an essence of life</a> - if you have something to fight for, you're living with passion and purpose. If you're fighting for yourself, it can be very worthy but if you're fighting for something you believe in, it will be majestic. I think Steve Jobs lived life with a purpose and his <a href="http://news.stanford.edu/news/2005/june15/jobs-061505.html">Stanford Commencement speech</a> is a great reminder to live with meaning. I've been instigated in a fight recently. Fighting means the possiblity of losing but what most people don't realise is... you can have an advantage just by wanting it more.
 
-<img src="{{site.url}}/assets/posts/life-of-pi.jpg" alt="Tiger on Boat from Life of Pi" >
+<center><img src="{{site.url}}/assets/posts/life-of-pi.jpg" alt="Tiger on Boat from Life of Pi" ></center>
 
 Someone once said: 
 
@@ -101,7 +104,7 @@ I'd rather be challenged in my job than waste my time at a large company (at thi
 
 3. Hobby - My favourite things to do in the world are comedy, sailing, swimming, and surfing. Some people blog or garden as a hobby. I like making ideas into reality. One of the things I'm most proud of is <a href="http://ufashion.sa.utoronto.ca/" target="_blank">ufashion</a> (the fashion group at University of Toronto) that I started in my final year of university. Founded in 2006 and 6 presidents later, it is still "the" fashion group at Canada's <a href="http://www.president.utoronto.ca/secure-content/uploads/2012/06/CanadaUniversityEnrolments.pdf" target="_blank">largest university</a>. I've gotten involved with the co-presidents this year, Frances and Tiffany. I'll be mostly hands off but am excited to get involved again.
 
-<a href="https://www.facebook.com/groups/102146126561029"><img src="{{site.url}}/assets/posts/ufashion-group.jpg" alt="University of Toronto Fashion Group on FB" ></a> University of Toronto Fashion Group on Facebook
+<a href="https://www.facebook.com/groups/102146126561029"><center><img src="{{site.url}}/assets/posts/ufashion-group.jpg" alt="University of Toronto Fashion Group on FB" ></center></a> University of Toronto Fashion Group on Facebook
 
 A consumer brand. How many people are lucky enough to be the owner of a consumer brand? <a href="http://www.wellingtonstravel.com/" target="_blank">Wellingtons Travel Co.</a> is a hobby business of mine that I hope to build into a house-hold name for vintage, travel, and cartography with my partner and friend Anna Butler. She is an amazing person who took an idea of mine from 2009 and spent 3 years to make it into something real. Of course, I'd quit my job and move to a different country to start it. Of course, I'd go knock on every door on high street. Of course, I'd learn how to drive a manual car for 3 hours in a Polish parking lot. Of course, I'll go to China to mass produce a product we dreamed up. How many people can see their products being sold in stores? It felt surreal for me.
 
@@ -145,6 +148,6 @@ Help - I like asking for help from my friends. I also love it when I can help my
 
 People that know me know this: I think the secret to life is to be in love. In love with an idea, a place, a person.
 
-<img src="{{site.url}}/assets/posts/59110451.jpeg" alt="Go Be Awesome!" />
+<center><img src="{{site.url}}/assets/posts/59110451.jpeg" alt="Go Be Awesome!" ></center>
 
 Thanks for reading this long post. I hope you found it valuable. Now go be <a href="http://songza.com/listen/london-stroll-songza/" target="_blank">awesome</a>!
