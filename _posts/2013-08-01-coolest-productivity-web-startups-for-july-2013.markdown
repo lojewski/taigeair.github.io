@@ -24,10 +24,13 @@ I've also started researching stocks more. I'm really loving this Toronto startu
 
 <strong>Web Designs</strong>
 
-<a href="http://www.helpineedhelp.com/"><img src="{{site.url}}/assets/posts/help-app.jpg" alt="help-app"></a>
+<center><a href="http://www.helpineedhelp.com/"><img src="{{site.url}}/assets/posts/help-app.jpg" alt="help-app"></a>
+</center>
 
 <a href="http://www.helpineedhelp.com/" target="_blank">Help</a> is a company that tries to help you with random and well designed remedies. I like their design and interactivity. Something to think about.
 
+<center>
 <a href="http://everylastdrop.co.uk/"><img src="{{site.url}}/assets/posts/parallax-website1.jpg" alt="parallax website" ></a>
+</center>
 
 <a href="http://everylastdrop.co.uk/" target="_blank">Everylastdrop</a> is a cool parallax scrolling website. I'm learning how to make one for fun. This is a good one to play around with and reference. Built using <a href="https://github.com/Prinzhorn/skrollr" target="_blank">skrollr</a>.

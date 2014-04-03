@@ -11,7 +11,7 @@ However, like I said, I'd put out a post with some gmail tips for dealing with G
 
 <h2>1. How to Attach a File in Gmail Without Having It Inside the Email</h2>
 
-<img src="{{site.url}}/assets/posts/gmail-drag-attach-picture.jpg" alt="gmail drag attach picture" >
+<center><img src="{{site.url}}/assets/posts/gmail-drag-attach-picture.jpg" alt="gmail drag attach picture" ></center>
 
 If you drag a picture into the email body then it'll be embedded into the email. And if you remove it, it won't included in the email nor attached anymore. I was quite frustrated before because Gmail would always insert pictures I was trying to attach but recently, I've noticed you can drag it into the bar below the email body. That will only attach the picture, not insert it into the email. I'm not sure if this was a new thing or I just didn't notice it before but it's awesome!
 
@@ -32,11 +32,11 @@ I find it funny that Gmail lets you make your emails look nice with inline image
 <h2>2. Deleting All Unread Emails In 0.7 Seconds</h2>
 This is the biggest gmail usability hack I've discovered in ages! This is also the trick that I'm most obsessed with because how often I delete emails. I check my email at least 8 times a day and delete over 70% of my emails. Check out this nifty Google Script App that shows you your <a href="http://www.gmailmeter.com/" target="_blank">Gmail statistics</a>. 
 
-<img src="{{site.url}}/assets/posts/chart.png" alt="email chart" >
+<center><img src="{{site.url}}/assets/posts/chart.png" alt="email chart" ></center>
 
 And I think it's not only me. Having working on email marketing campaigns, I know open rates for some emails are around 20% so I think a lot of people are also simply deleting loads of emails. Here's some data from MailChimp: <a href="http://blog.mailchimp.com/how-gmails-new-inbox-is-affecting-open-rates/" target="_blank">How Gmail’s New Inbox Is Affecting Open Rates</a> and <a href="http://mailchimp.com/resources/research/email-marketing-benchmarks/" target="_blank">Email Marketing Benchmarks</a>.
 
-<img src="{{site.url}}/assets/posts/GmailTabs02-1024x555.png" alt="GmailTabs02" >
+<center><img src="{{site.url}}/assets/posts/GmailTabs02-1024x555.png" alt="GmailTabs02" ></center>
 
 Anyways, I wasn't aware how much I needed a 1-click to delete all my unread messages before Gmail Tabs because now I do the <a href="http://www.taigeair.com/inbox-zero-flow/">same workflow</a> for what feels like 5 mailboxes...  
 
@@ -47,18 +47,21 @@ If you look at my usage stats above, you'll see more than 70% of my messages I d
 
 <h2>Setup Instructions</h2>
 1. Go to Gmail Labs in Settings. 
-<img src="{{site.url}}/assets/posts/Settings.jpg" alt="Settings" >
+<center><img src="{{site.url}}/assets/posts/Settings.jpg" alt="Settings" ></center>
 
 2. Enable Custom Keyboard Shortcuts
-<img src="{{site.url}}/assets/posts/Gmail-Labs-Custom-Keyboard-Shortcuts2.jpg" alt="Gmail Labs Custom Keyboard Shortcuts2">
+<center><img src="{{site.url}}/assets/posts/Gmail-Labs-Custom-Keyboard-Shortcuts2.jpg" alt="Gmail Labs Custom Keyboard Shortcuts2"></center>
+
 3. Update the shortcuts accordingly. I've stripped out the other shortcuts to focus on only the ones you need to change. I don't know what "Teach Gmail" means so I left it in there :)
 
 Yours will look like this right now.
-<img src="{{site.url}}/assets/posts/Gmail-Shortcut-Original.jpg" alt="Gmail Shortcut Original" >
+
+<center><img src="{{site.url}}/assets/posts/Gmail-Shortcut-Original.jpg" alt="Gmail Shortcut Original" ></center>
 
 
 Change yours to make it look like this.
-<img src="{{site.url}}/assets/posts/Delete-All-Unread-Email-Gmail-Shortcut.jpg" alt="Delete All Unread Email Gmail Shortcut" >
+
+<center><img src="{{site.url}}/assets/posts/Delete-All-Unread-Email-Gmail-Shortcut.jpg" alt="Delete All Unread Email Gmail Shortcut" ></center>
 
 4. Hit "save changes".
 
@@ -70,7 +73,7 @@ Change yours to make it look like this.
 
 <h2>Conclusion</h2>
 
-<img src="{{site.url}}/assets/posts/taige-hen-像一个老板.jpg" alt="taige hen 像一个老板" >
+<center><img src="{{site.url}}/assets/posts/taige-hen-像一个老板.jpg" alt="taige hen 像一个老板" ></center>
 
 <strong>You can now manage your email 像一个老板. If you love this, tell your friends. <a href="https://twitter.com/intent/tweet?text=I'm+loving+gmail+with+@taigeair's+delete+all+unread+emails+shortcut!+Check+it+out+at+http://www.taigeair.com/gmail-shortcuts-you-will-love/" target="_blank">Click here!</a> Or share using one of the social buttons below.</strong>
 

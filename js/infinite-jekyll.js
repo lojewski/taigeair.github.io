@@ -1,3 +1,30 @@
+/* resize images */
+
+var imgCheck = function(){
+  $('a[href^="http://"]').not('[href*="taigeair.com"]').attr('target','_blank');
+  $('a[href^="https://"]').not('[href*="taigeair.com"]').attr('target','_blank');
+
+
+  var imgCount = $('img').length
+
+  for (i = 0 ; i< imgCount; i++){
+    height = $('img')[i].height;
+    width = $('img')[i].width;
+    ratio = height/width;
+    if(ratio>1.5){
+    console.log(ratio);
+    $('img:eq('+i+')').css("height",600)
+    } 
+    else if(ratio>1){
+    console.log(ratio);
+    $('img:eq('+i+')').css("height",700)
+    }
+  }
+}
+
+
+
+
 /* The MIT License (MIT)
 
 Copyright (c) 2013 Tobias Ahlin
@@ -53,6 +80,7 @@ $(function() {
     // If we've scrolled past the loadNewPostsThreshold, fetch posts
     if ((documentHeight - loadNewPostsThreshold) < bottomScrollPosition) {
       fetchPosts();
+      imgCheck();
     }
   });
   
@@ -112,13 +140,17 @@ Shrink Grow Stuff
 */
 
 jQuery(document).ready(function(){
+
+      // re-size image 
+
+      imgCheck();
+
       //when scroll past point, make full width
       var headerPosition = jQuery('.dolla').offset().top;
       var scrollBottom = 0;
-      var nearBottom = jQuery('.footer').offset().top;
+      var nearBottom = 0;
 
-      var stickyNav = function(x){
-      var scrollPosition = x;
+      var stickyNav = function(scrollPosition){
       if (scrollPosition > headerPosition + 160) {
       jQuery('.main').addClass('grow');
       jQuery('.header').addClass('shrink');
@@ -137,9 +169,14 @@ jQuery(document).ready(function(){
       $(window).bind("load resize scroll",function(e){
           var scrollPosition = jQuery(window).scrollTop();
           var scrollBottom = $(window).scrollTop() + $(window).height();
+          var nearBottom = jQuery('.footer').offset().top;
+
           /*      console.log(headerPosition);
                   console.log(scrollPosition);
+
           */
+                  console.log(scrollBottom);
+                  console.log(nearBottom);
           //ignore if mobile view
           if(jQuery(window).width() > 884) {
           stickyNav(scrollPosition);

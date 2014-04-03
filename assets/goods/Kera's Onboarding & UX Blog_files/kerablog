@@ -1,0 +1,146 @@
+/*
+ * Tumblr Tag Cloud Javascript  v 1.9.1
+ * http://post-theory.com/tumblr-tag-cloud-javascript
+ * --------------------------------------------------------------------------------------------------------
+ * Copyright (c) 2012-2013 Felix Bonkoski <felix@felixbonkoski.com>
+ * Code licensed under the MIT License.
+ * License and Terms of Use at: <http://post-theory.com/page/tag-cloud-license>
+ */
+
+(function() {
+    var cloudID = 'tagCloud', TC = null;
+    function findMe() {
+        var scripts = document.getElementsByTagName('script'), pr, ch, j, i;
+        for (i = 0; i < scripts.length; i++) {
+            if (scripts[i].src.indexOf('post-theory.com/public/tagcloud') > 0) {
+                try { pr = scripts[i].parentNode; ch = pr.childNodes;
+                    for (j = 0; j < ch.length; j++) {
+                        try { if (ch[j].id && ch[j].id == cloudID && ch[j].className.indexOf('tc-loaded') < 0) return scripts[i]; }
+                        catch (e) { continue; }
+                    }
+                } catch (e) { continue; }
+            }
+        }
+        return false;
+    }
+    function findTC() {
+        var tc = document.getElementById(cloudID), me;
+        if (tc) { if (tc.className.indexOf('tc-loaded') < 0) { return tc; } }
+        if (!(me = findMe())) { return null; }
+        try { me.parentNode.removeChild(tc); } catch (e) {}
+        cloudID += (Math.floor(Math.random() * (9999 - 1000 + 1)) + 1000);
+        tc = document.createElement('div'); tc.setAttribute('id', cloudID);
+        try { tc = me.parentNode.insertBefore(tc, me); } catch (e) { return null; }
+        return tc;
+    }
+    function fixWrap() {
+        var i, j, spels, spbr, tcw, tcr, tcl;
+        tcw = TC.clientWidth; tcr = TC.getBoundingClientRect().right; tcl = TC.getBoundingClientRect().left;
+        if (!tcw) { window.setTimeout(fixWrap,500); return; }
+        if (TC.className.indexOf('tc-wrapped') >= 0) { return; }
+        TC.className = (TC.className ? TC.className + ' tc-wrapped' : 'tc-wrapped');
+        try {
+            spels = TC.getElementsByTagName('span');
+            for (j = 0; j < spels.length; j++) {
+                spbr = spels[j].getBoundingClientRect();
+                if (spbr.width > tcw || spbr.right > tcr || spbr.left < tcl ) { spels[j].style.whiteSpace = 'normal'; }
+            }
+        } catch (e) { ; }
+    }
+    function makecloud() {
+        TC = findTC(); if (!TC) { return; }
+        var Tags = [["best practice", "Best Practice", 5], ["ux", "Ux", 3], ["experiments", "Experiments", 1], ["onboarding", "Onboarding", 3], ["gamification", "Gamification", 2], ["google", "Google", 1], ["linkedin", "Linkedin", 1], ["facebook", "Facebook", 3], ["Product Page Report Card", "Product Page Report Card", 2], ["product tour videos", "Product Tour Videos", 3], ["onboarding example", "Onboarding Example", 2], ["Leveraging Great Game Design in Web Apps Blog Series", "Leveraging Great Game Design in Web Apps Blog Series", 4],
+	 ["product preview", "Product Preview", 1], ["feature release", "Feature Release", 1], ["Talent", "Talent", 1], ["TeamBuilding", "TeamBuilding", 1], ["HR", "Hr", 1], ["google plus", "Google Plus", 1]],
+            i, wt, inv_wt='100', ts=' ', fs='', html = '', minp = 100, maxp = 240, rngp = maxp-minp,
+            minc = 1, maxc = 1, rngc = maxc-minc, Z = 1.0000, X = 0.0000, atnd,
+            aslist = 'ul', scale = 0, atitle = 1, atarg = '', sep = '', nowrap = '',
+            prep = 0, b = 'http://blog.kera.io', insat = ["\u2014"][0], tagct = '', scalect = 1, exhtml='', scaleFn,
+            md = ' itemscope itemtype="http://schema.org/CollectionPage"', classes = 0,
+            s = [" #tagCloud span a, #tagCloud span a:hover, #tagCloud span a:active, #tagCloud span a:visited { font-size: inherit !important; } "][0], chrono = 0 ? '/chrono' : '';
+        
+        function inRange(x, a, b) {  if (x < a) { return a; } if (x > b) { return b; } return x;  }
+        function scale_modlog(ct) {
+            return Math.round(inRange(Math.log(ct + X) / Z * 100.0, minp, maxp));
+        }
+        function scale_log(ct) {
+            return Math.round(inRange(Math.log( ((ct-minc) / rngc)*(Math.E-1) + 1 ) * rngp + minp, minp, maxp));
+        }
+        function scale_root(ct) {
+            return Math.round(inRange(Math.pow( (ct-minc) / rngc, 0.6 ) * rngp + minp, minp, maxp));
+        }
+        function scale_linear(ct) {
+            return Math.round(inRange( ((ct-minc) / rngc) * rngp + minp, minp, maxp));
+        }
+        scaleFn = null;
+        if ( s ) { s = s.replace(/#tagCloud/gm, '#' + cloudID); }
+        if ( aslist ) { ts = ''; }
+        if ( tagct ) { tagct = '<span class="tc-count" '+(!scalect?' style="font-size:%;"':'')+'>'+tagct+'</span>'; }
+        for (i = 0; i < Tags.length; i++) {
+            if (scale) {
+                wt = (rngc ? scaleFn(Tags[i][2]) : minp);
+                if (!scalect) {inv_wt = 100.0 * (1.0 / (wt / 100.0)); inv_wt = inv_wt.toFixed(3);}
+                fs = ' style="font-size: ' + wt + '%;"';
+            }
+            html += (aslist ? '<li class="tc-item">' : '') +
+                '<span class="tc-tag ' + (classes? Tags[i][3] : '') + '"' + fs + '>' +
+                    '<a class="tc-link"' + 
+                        atarg + (atitle ? (' title="' + Tags[i][2] + ' Post' + (Tags[i][2] > 1 ? 's"' : '"')) : '') +
+                    ' href="' + b + '/tagged/' + encodeURIComponent(Tags[i][0]) + chrono + '">' + Tags[i][1] + '</a>' +
+                (tagct ? tagct.replace('$', Tags[i][2]).replace('%;"',inv_wt+'%;"') : '') +
+                (i==Tags.length-1 ? '' : sep) + '</span>' + (i==Tags.length-1 ? '' : ts) +
+                (aslist ? '</li>' : '');
+        }
+        if (aslist) { html = '<' + aslist + '>' + html + '</' + aslist + '>'; }
+
+        if (TC.className.indexOf('tc-loaded') >= 0) { return; }
+        exhtml = TC.innerHTML;
+        TC.innerHTML = (s ? '<style type="text/css">' + s + '</style>' : '');
+        if (exhtml&&exhtml.indexOf(insat)>0) { TC.innerHTML+=exhtml.replace(insat,html); }
+        else if (exhtml&&exhtml.indexOf('&mdash;')>0) { TC.innerHTML+=exhtml.replace('&mdash;',html); }
+        else if (exhtml&&exhtml.indexOf('{tagCloud}')>0) { TC.innerHTML+=exhtml.replace('{tagCloud}',html); }
+        else { TC.innerHTML+= (prep ? html+exhtml: exhtml+html); }
+        TC.className = (TC.className ? TC.className + ' tc-loaded' : 'tc-loaded');
+        //try { atnd = document.createAttribute('itemscope'); TC.setAttributeNode(atnd);
+        //    atnd = document.createAttribute('itemtype'); atnd.value='http://schema.org/SiteNavigationElement'; TC.setAttributeNode(atnd);
+        //} catch (e) {;}
+        if (nowrap == 'soft') { fixWrap(TC); }
+    }
+    function tryImmediate() {
+        try {
+            if ( document.body && document.readyState === "complete" && document.getElementById(cloudID) ) {
+                return true;
+            }
+        } catch(e) { return false; }
+        return false;
+    }
+    function onDocReady(loadFn) {
+        /* This code adapted from jQuery <http://jquery.com> Dual licensed under the MIT or GPL version 2 licenses */
+        var isready = false, DOMContentLoaded;
+        function ready() {
+            if (isready) { return; } if ( !document.body ) { setTimeout( ready, 20 ); return; }
+            isready = true; loadFn();
+        }
+        if ( document.addEventListener ) {
+            DOMContentLoaded = function() { document.removeEventListener( "DOMContentLoaded", DOMContentLoaded, false ); ready(); };
+        } else if ( document.attachEvent ) {
+            DOMContentLoaded = function() {
+                if ( document.readyState === "complete" ) { document.detachEvent( "onreadystatechange", DOMContentLoaded ); ready(); }
+            };
+        }
+        function doScrollCheck() {
+            if ( isready ) { return; } try { document.documentElement.doScroll("left"); } catch(e) { return setTimeout( doScrollCheck, 1 ); } ready();
+        }
+        function init() {
+            if ( document.readyState === "complete" ) { return setTimeout( ready, 20 ); }
+            if ( document.addEventListener ) {
+                document.addEventListener( "DOMContentLoaded", DOMContentLoaded, false ); window.addEventListener( "load", ready, false );
+            } else if ( document.attachEvent ) {
+                document.attachEvent( "onreadystatechange", DOMContentLoaded ); window.attachEvent( "onload", ready );
+                var toplevel = false; try { toplevel = window.frameElement == null; } catch(e) {}
+                if ( document.documentElement.doScroll && toplevel ) { doScrollCheck(); }
+            }
+        }
+        init();
+    }
+    if (tryImmediate()) { makecloud(); } else { onDocReady(makecloud); }
+}());

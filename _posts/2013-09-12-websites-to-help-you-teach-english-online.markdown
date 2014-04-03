@@ -6,7 +6,7 @@ date:   2013-09-12 14:33:19
 categories: tech
 ---
 
-<img src="{{site.url}}/assets/posts/Arrested-Development-India-1024x470.jpg" alt="Arrested Development India">
+<center><img src="{{site.url}}/assets/posts/Arrested-Development-India-1024x470.jpg" alt="Arrested Development India"></center>
 
 <h3>Teaching as a hobby.</h3>
 
@@ -39,14 +39,14 @@ So how do you find your first pupils? Here's a list of top language websites to 
 <strong><a href="http://www.colingo.com/teach" target="_blank">Colingo</a> - airbnb for English teaching
 </strong>
 
-<a href="http://www.colingo.com/teach"><img src="{{site.url}}/assets/posts/Colingo-1024x720.jpg" alt="Colingo" ></a>
+<a href="http://www.colingo.com/teach"><center><img src="{{site.url}}/assets/posts/Colingo-1024x720.jpg" alt="Colingo" ></center></a>
 Based in San Francisco, Colingo is a language learning and teaching marketplace. It offers students classes and 1-on-1 sessions over live online video chat. As a teacher, you'll work from home to teach English to small groups over videochat online. Commitment can be as little as 1 or 2 hours a day. Earn $14 for each hour-long class.
 
 Languages you can teach on Colingo: English
 
 <strong><a href="http://livemocha.com/pages/teaching-on-livemocha/" target="_blank">Livemocha (Rosetta Stone)</a> - online language learning community leader</strong>
 
-<a href="http://livemocha.com/pages/teaching-on-livemocha/"><img src="{{site.url}}/assets/posts/livemocha-1024x715.jpg" alt="livemocha" ></a>
+<a href="http://livemocha.com/pages/teaching-on-livemocha/"><center><img src="{{site.url}}/assets/posts/livemocha-1024x715.jpg" alt="livemocha" ></center></a>
 
 Livemocha is an online language teaching veteran having been around since 2007. It provides instructional materials in 38 languages and a community for language learning with 12 million registered members. Acquired by Rosetta Stone in 2013, it seeks <a href="http://livemocha.com/pages/expert-exercise-reviews/" target="_blank">language experts</a> to review and critique student works, <a href="http://jobs.rosettastone.com/content/online-language-coaches-197.aspx" target="_blank">language coach</a>, <a href="http://livemocha.com/pages/creating-content/" target="_blank">content creators</a> for classes, and translators. Language coaches work from home position but need to attend semi-annual meetings in Hub Cities: Chicago, Harrisonburg, VA, Miami, New York City, Seattle, or Washington DC. Instructors need to go through a 30-40 hour training process and are expected to work 8-15 hours per week based on learner demand. Work includes leading Studio sessions, working in Rosetta World, and reviewing language-specific Rosetta Stone content. 
 
@@ -54,7 +54,7 @@ Languages you can teach on Livemocha: In demand languages include Arabic, Chines
 
 <strong><a href="http://www.italki.com/teacher/apply" target="_blank">italki</a> - get paid to help people learn a language</strong>
 
-<a href="http://www.italki.com/teacher/apply"><img src="{{site.url}}/assets/posts/italki.jpg" alt="italki" ></a>
+<a href="http://www.italki.com/teacher/apply"><center><img src="{{site.url}}/assets/posts/italki.jpg" alt="italki" ></center></a>
 italki has its own internal currency which can be used for learning or exchanged for cash. Set your own prices but italki takes a 15% commission. You can work as a certified language teacher, tutor for language practice, or volunteer as a language exchange partner. 
 
 
@@ -62,7 +62,7 @@ Languages you can teach on italki: English, Chinese (Mandarin), French, Spanish,
 
 <strong><a href="http://www.myngle.com/user/register/teacher" target="_blank">Myngle</a> - language lessons that come to you</strong>
 
-<img src="{{site.url}}/assets/posts/Myngle.jpg" alt="Myngle" >
+<center><img src="{{site.url}}/assets/posts/Myngle.jpg" alt="Myngle" ></center>
 
 Founded in 2007 and based in Amsterdam in the Netherlands, it offers one-on-one and group lessons online in addition to providing language learning material for 45 languages. Myngle teachers go through a special training and selection process.
 
@@ -70,7 +70,7 @@ Languages you can teach on Myngle: English, Spanish, French, Italian, Arabic.  4
 
 <strong><a href="http://www.openenglish.com/profesor-nativo-de-idioma-ingles.do" target="_blank">OpenEnglish</a> - fluency guaranteed</strong>
 
-<img src="{{site.url}}/assets/posts/Open-English.jpg" alt="Open-English">
+<center><img src="{{site.url}}/assets/posts/Open-English.jpg" alt="Open-English"></center>
 
 Founded in 2006, Open English is an international online ESL school based in Panama and focused on Latin America markets. Teachers lead online live classes and provide help to students trying to master English. Teachers will be provided with lesson plans and host hour-long classes with usually four students. During class, they help students improve pronunciation, grammar, and develop fluency through conversation.
 
@@ -79,7 +79,7 @@ Languages you can teach on Open English: English
 
 <strong><a href="http://edufire.com/why_teach" target="_blank">eduFire</a> - a social learning community</strong>
 
-<img src="{{site.url}}/assets/posts/eduFire.jpg" alt="eduFire">
+<center><img src="{{site.url}}/assets/posts/eduFire.jpg" alt="eduFire"></center>
 
 Founded in 2007 and based in California, EduFire provides language distance education and social network for live tutoring using text and video chat. Teachers work from home and set their own rates with a 15% fee to eduFire. Classes can be one-on-one or one-to-many.
 

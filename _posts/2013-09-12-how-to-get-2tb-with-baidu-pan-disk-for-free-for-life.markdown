@@ -15,27 +15,28 @@ My friend says China is going to take over the world. And its Weixin is way bett
 
 You can get 2 Terabyte of free cloud storage with Baidu for life for free. Unlimited bandwidth. It's a promo going on right now. This will cost you <a href="https://support.google.com/drive/answer/2375123?hl=en">$1200 a year with Google Drive</a>. Dropbox offers 500 GB for $499 a year. 
 
-<img src="{{site.url}}/assets/posts/Home-page-1024x666.png" alt="Home page" >
+
+<center><img src="{{site.url}}/assets/posts/Home-page-1024x666.png" alt="Home page" ></center>
 
 <strong>Uploading and Torrentting to Baidu Drive</strong>
 
 You can upload from a link (i.e. streaming) or torrent tracker file/magnet link straight into your drive. 
 
-<img src="{{site.url}}/assets/posts/Upload-Options.png" alt="Upload Options" >
+<center><img src="{{site.url}}/assets/posts/Upload-Options.png" alt="Upload Options" ></center>
 
 For example, if you like a song you can just give it the song URL. 
 
-<img src="{{site.url}}/assets/posts/Download-by-Link-1024x666.png" alt="Download by Link" >
+<center><img src="{{site.url}}/assets/posts/Download-by-Link-1024x666.png" alt="Download by Link" ></center>
 
 <strong>Playback and Streaming</strong>
 
 You can play files directly from your drive by streaming or sharing it with your friends. Copy files from friends' drives directly into yours in seconds. 
 
-<img src="{{site.url}}/assets/posts/Screen-Shot-2013-09-12-at-10.44.09-AM-1024x666.png" alt="Screen Shot 2013-09-12 at 10.44.09 AM">
+<center><img src="{{site.url}}/assets/posts/Screen-Shot-2013-09-12-at-10.44.09-AM-1024x666.png" alt="Screen Shot 2013-09-12 at 10.44.09 AM"></center>
 
 It also allows you to browse your files by music, video, Torrent, shared, etc. 
 
-<img src="{{site.url}}/assets/posts/Show-Music-1024x666.png" alt="Show Music">
+<center><img src="{{site.url}}/assets/posts/Show-Music-1024x666.png" alt="Show Music"></center>
 
 <strong>Hosted in China</strong>
 
@@ -59,7 +60,7 @@ Files are hosted in China which can be pretty cool but for me it means slower do
 
 <a href="https://passport.baidu.com/v2/?reg&u=http%3A%2F%2Fpan.baidu.com&regType=1#mail" target="_blank">Register</a> using your email. Enter email, password, and then captacha. 
 
-<img src="{{site.url}}/assets/posts/Sign-Up-1024x666.png" alt="Sign Up">
+<center><img src="{{site.url}}/assets/posts/Sign-Up-1024x666.png" alt="Sign Up"></center>
 
 <strong>2. Download its mobile app</strong>
 
@@ -71,15 +72,15 @@ Files are hosted in China which can be pretty cool but for me it means slower do
 
 The first field is email and second is password.
 
-<img src="{{site.url}}/assets/posts/2013-09-11-2327262.png" alt="mobile app" >
+<center><img src="{{site.url}}/assets/posts/2013-09-11-2327262.png" alt="mobile app" ></center>
 
 <strong>4. Claim space</strong>
 
 Go back to pan.baidu.com and then click on claim space.
 
-<img src="{{site.url}}/assets/posts/Baidu-Pan-Home1-1024x666.png" alt="Baidu Pan Home" >
+<center><img src="{{site.url}}/assets/posts/Baidu-Pan-Home1-1024x666.png" alt="Baidu Pan Home" ></center>
 
-<img src="{{site.url}}/assets/posts/Claim-Promo1-1024x666.png" alt="Claim Promo">
+<center><img src="{{site.url}}/assets/posts/Claim-Promo1-1024x666.png" alt="Claim Promo"></center>
 
 <strong>That's it</strong>
 
@@ -89,4 +90,4 @@ On another note, <a href="http://www.weiyun.com/act/10t-en.html?WYTAG=weiyun.por
 
 Update: I just got 26 TB from Yun Pan 360. Its speeds are faster but I can't use it on OS X so I can't recommend it. The sign up process is similar.
 
-<img src="{{site.url}}/assets/posts/Screen-Shot-2013-09-18-at-2.58.20-PM-1024x329.png" alt="Screen Shot 2013-09-18 at 2.58.20 PM">
+<center><img src="{{site.url}}/assets/posts/Screen-Shot-2013-09-18-at-2.58.20-PM-1024x329.png" alt="Screen Shot 2013-09-18 at 2.58.20 PM"></center>

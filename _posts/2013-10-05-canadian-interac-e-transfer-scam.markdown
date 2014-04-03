@@ -68,6 +68,7 @@ Step 3. Get this phishing email.
 
 </div>
 </div></blockquote>
+
 Step 4. Click on the fake link. Contact him about it not working.
 
 Step 5. He demands you send it because he already paid.
@@ -75,6 +76,7 @@ Step 5. He demands you send it because he already paid.
 Step 6. You say you don't have the money and is not an idiot to send him the item.
 
 Step 7. He says you must and threatens you with this hilarious email.
+
 <blockquote>
 <div><b>From: </b>jack mark &lt;<a href="mailto:jackmark394@gmail.com" target="_blank">jackmark394@gmail.com</a>&gt;</div>
 <div><b>Subject: </b><b>Royal Canadian Mounted Police of Investigation From INTERAC e-Transfe</b></div>
@@ -105,7 +107,10 @@ NOTE : It is important we know the status of the transaction, otherwise, le
 
 You are advice to ship the item within 12Hours and get back to us with the shipment tracking number and receipt, we will credit your account with thefund(s) pending.
 
+<center>
 <img  src="{{site.url}}/assets/posts/Screen-Shot-2013-10-05-at-11.58.30-AM.png">
+</center>
+
 <b>Failure to abide to this means your Name, Picture and Address will be forward to the Law Enforcement Agency in your country to get you arrested, because you are practicing Fraud, and your account with</b><b> INTERAC e-Transfer, Bank or Credit Card linked to your </b><b>INTERAC e-Transferaccount will be BLOCKED and SUSPENDED , In order to free yourself from this, get the item shipped within 12hours and send the shipment tracking number and receipt to us so we can Verify the shipping and to release the fund(s) into your account. If you have any comment on this issue do not hesitate to contact us. If the information you wish to provide pertains to an emergency situation, please contact us at</b><span style="text-decoration: underline;"><a href="mailto:onlineaccountconsultant@in.com" target="_blank" rel="nofollow">onlineaccountconsultant@in.com</a></span><b></b>
 
 &nbsp;

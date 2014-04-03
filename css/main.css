@@ -64,6 +64,15 @@ ul {
   -webkit-padding-start: 0;
 }
 
+img {
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  margin: 1em;
+  max-width: 650px;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -358,8 +367,11 @@ padding: 6px 10px 6px 0;
   overflow: hidden;
 }
 
+.post h2 {
+  font-size: 1.12em;
+}
+
 .post img{
-	width:100%;
 }
 
 .post pre {
@@ -369,7 +381,13 @@ padding: 6px 10px 6px 0;
 }
 
 .post ul, .post ol {
-  margin-left: 1.35em;
+  list-style: disc;
+  padding: 1em 3em 1em;
+  font-size: .9em;
+}
+
+blockquote {
+  font-size: .67em;
 }
 
 .post code {
@@ -396,6 +414,8 @@ padding: 6px 10px 6px 0;
 #me{
   width: 100%;
   border-radius: 3px;
+  margin: 0;
+  padding: 0;
 }
 
 .divider {
@@ -510,6 +530,10 @@ a:active { color: tomato;
 
 .grow {
   width: 100%;
+}
+
+.grow img {
+  max-width: 950px;
 }
 
 .go-top {

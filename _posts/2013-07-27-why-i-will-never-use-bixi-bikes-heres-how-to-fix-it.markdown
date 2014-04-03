@@ -8,7 +8,9 @@ categories: tech
 
 One of my best friends loves the Bixi Bike. I can't understand how after we spent 3 hours trying to return them to docking stations in <a href="https://maps.google.com/maps?q=Montreal+Biosph%C3%A8re&hl=en&ie=UTF8&ll=45.515565,-73.531988&spn=0.009052,0.018518&sll=45.516782,-73.529863&sspn=0.018103,0.037036&hq=Biosph%C3%A8re&hnear=Montreal,+Quebec,+Canada&t=m&z=16&iwloc=A" target="_blank">Montreal's Biosphere</a>. I guess some people just don't learn very well. I'm joking but I do constantly send him photos of Bixi bike station with no bikes just to tease him how ineffective the system is. 
 
+<center>
 <img src="{{site.url}}/assets/posts/bixi-bike-1024x768.jpg" alt="bixi bike" >
+</center>
 
 So here's why Bixi Bikes are flawed and should discontinue if they keep <a href="http://www.torontolife.com/informer/toronto-business/2013/04/17/bixi-toronto-financial-problems/" target="_blank">losing money</a>.
 
@@ -63,7 +65,8 @@ I know a lot of people don't ride those bikes because they think riding in the c
 
 <h2>How to fix it.</h2>
 
-<img src="{{site.url}}/assets/posts/1Znivj.png" alt="1Znivj">
+<center><img src="{{site.url}}/assets/posts/1Znivj.png" alt="1Znivj"></center>
+
 Here are the things that need to be changed that will make me use it.
 
 <strong>Make it easier to understand how to use it.</strong> It's more complicated than Microsoft's Windows Editions. Can you just make it like, "Heya! Are you a tourist? It's $5 a day. Put your credit card in for a security deposit" or "Hiyo! Are you a member? You know what to do! Peace!" Do away with the complicated rules. It's as complicated as Bell's phone plan except you don't have anyone there explaining it to you.
@@ -74,4 +77,6 @@ Here are the things that need to be changed that will make me use it.
 
 I am really surprised some people love Bixi... oh dear.
 
+<center>
 <img src="{{site.url}}/assets/posts/Bixi-Bike-4eva-Fan.jpg" alt="Bixi Bike 4eva Fan" >
+</center>

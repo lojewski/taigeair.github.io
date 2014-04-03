@@ -32,20 +32,23 @@ This is very cool. The ability to jump through space. You can spend a night in V
 
 So there's why radio surfing is great in bullets:
 <ul>
-	<li><span style="font-size: 14px; line-height: 1.5em;">you feel like you're in that city</span></li>
-	<li><span style="font-size: 14px; line-height: 1.5em;">you discover a lot more new music</span></li>
-	<li><span style="font-size: 14px; line-height: 1.5em;">you'll improve your foreign languages or hear new ones</span></li>
+	<li>you feel like you're in that city</li>
+	<li>you discover a lot more new music</li>
+	<li>you'll improve your foreign languages or hear new ones</li>
 </ul>
+
 Another fasincation of mine is video Skyping friends outdoors. For the past several years, all you could show your friends was your face and your bedroom. Now you can show them your streets and the outside world. It's amazing to see your friends out the real world and show them your moments wherever you are. I'm really happy to have <a href="www.taigeair.com/how-to-use-iphone-5s-on-wind/">unlimited 3G data</a>.
 
 If I have enough time this spring (I'm already working on a side project on the topic of <a href="http://www.sleepmoo.com" target="_blank">sleep</a>), I'd like to make a web app that combines daylight information, Google Map, and TuneIn radio. With this app, all you have to do is click on a city and it'll do a search for radio stations in the region and show you a list of radio stations. You can save radio stations on that map so you can see your colony of radio stations (hopefully the sun will never set on them). You also visually see if it's a night program or early morning one.
 
 Mockup below:
-
+<center>
 <img src="{{site.url}}/assets/posts/radio-surfing-app.jpg" >
+</center>
 
 Map Source: <a href="http://www.opentopia.com/sunlightmaprect.html" target="_blank">http://www.opentopia.com/sunlightmaprect</a> &amp; <a href="http://www.die.net/earth/" target="_blank">http://www.die.net/earth</a>
 
 Pro-tip: If you ever feel homesick, just listen to your hometown radio station. It always makes me smile when they talk about the streets I know during traffic jam reports. "Oh that 880, should of taken the side street!"
 
 By the way, if anyone wants to work on this app with me. Get in touch!
+

@@ -12,11 +12,15 @@ To get this, you need to jump through a few hoops and do a few things. Here's ho
 
 1. Cut your sim down to a nano-sim.
 
+<center>
 <img src="{{site.url}}/assets/posts/Screen-Shot-2013-10-10-at-9.41.54-AM.png">
+</center>
 
 Make sure metal faces down. If you won't want to, it's $10 for existing customers and $25 for new customers. Here's a video that shows you how to cut it.
 
+<center>
 <iframe src="//www.youtube.com/embed/j6T1Mygucak" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+</center>
 
 Your cellular services should work now but not data.
 
@@ -24,13 +28,15 @@ Your cellular services should work now but not data.
 
 Make your phone settings look like the picture below. Settings-&gt;Cellular-&gt;Cellular Data Network
 Go into your APN setting and type: internet.windmobile.ca
-
+<center>
 <img src="{{site.url}}/assets/posts/wind-iphone-settings-576x1024.png" >
-
+</center>
 See their <a href="http://www2.windmobile.ca/media/pdfs/Non-WIND/Non-WIND_Device_Configuration.pdf" target="_blank">documentation here</a>.
 
 3. Select the correct wind network.
 
 Stop it messing up after you get out of subways. Disable select networks automatically. Choose WIND, not WIND (Away). Settings-&gt;Carrier
-
+<center>
 <img src="{{site.url}}/assets/posts/wind-iphone-settings-2.png" >
+</center>
+
