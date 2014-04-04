@@ -55,8 +55,8 @@ Languages you can teach on Livemocha: In demand languages include Arabic, Chines
 <strong><a href="http://www.italki.com/teacher/apply" target="_blank">italki</a> - get paid to help people learn a language</strong>
 
 <a href="http://www.italki.com/teacher/apply"><center><img src="{{site.url}}/assets/posts/italki.jpg" alt="italki" ></center></a>
-italki has its own internal currency which can be used for learning or exchanged for cash. Set your own prices but italki takes a 15% commission. You can work as a certified language teacher, tutor for language practice, or volunteer as a language exchange partner. 
 
+italki has its own internal currency which can be used for learning or exchanged for cash. Set your own prices but italki takes a 15% commission. You can work as a certified language teacher, tutor for language practice, or volunteer as a language exchange partner. 
 
 Languages you can teach on italki: English, Chinese (Mandarin), French, Spanish, Portuguese, German, Japanese, Korean, Arabic, Hindi, Italian, Russian, etc. 
 

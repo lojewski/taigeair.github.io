@@ -10,7 +10,7 @@ So you're a smart, tech savvy consumer who wants it all. Unlimited calls, texts,
 
 To get this, you need to jump through a few hoops and do a few things. Here's how to get your iPhone working on Wind Mobile.
 
-1. Cut your sim down to a nano-sim.
+<p>1. Cut your sim down to a nano-sim.</p>
 
 <center>
 <img src="{{site.url}}/assets/posts/Screen-Shot-2013-10-10-at-9.41.54-AM.png">
@@ -24,16 +24,17 @@ Make sure metal faces down. If you won't want to, it's $10 for existing customer
 
 Your cellular services should work now but not data.
 
-2. Set up the data network.
+<p>2. Set up the data network.</p>
 
 Make your phone settings look like the picture below. Settings-&gt;Cellular-&gt;Cellular Data Network
 Go into your APN setting and type: internet.windmobile.ca
 <center>
 <img src="{{site.url}}/assets/posts/wind-iphone-settings-576x1024.png" >
 </center>
+
 See their <a href="http://www2.windmobile.ca/media/pdfs/Non-WIND/Non-WIND_Device_Configuration.pdf" target="_blank">documentation here</a>.
 
-3. Select the correct wind network.
+<p>3. Select the correct wind network.</p>
 
 Stop it messing up after you get out of subways. Disable select networks automatically. Choose WIND, not WIND (Away). Settings-&gt;Carrier
 <center>

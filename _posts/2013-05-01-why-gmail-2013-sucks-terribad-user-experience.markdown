@@ -12,11 +12,11 @@ I'm upset with the new Gmail. I've been using Gmail since it first came out in 2
 
 <h3>This is why the 2013 Gmail sucks</h3>
 
-1. <strong>I can't easily delete my signatures.</strong> You know when you're messaging back and forth with people, you sometimes strip out your email signatures to reduce clutter and make it more readable and less formal? Now you have to click on three tiny dots and then do it. And sometimes I forget because it's hidden from view. This is crappy. It's not user friendly.
+<strong>1. I can't easily delete my signatures.</strong> You know when you're messaging back and forth with people, you sometimes strip out your email signatures to reduce clutter and make it more readable and less formal? Now you have to click on three tiny dots and then do it. And sometimes I forget because it's hidden from view. This is crappy. It's not user friendly.
 
 <center><img alt="Click on three tiny dots" src="{{site.url}}/assets/posts/Click-on-three-tiny-dots.jpg"></center>
 
-2. <strong>I can't easily change my email subject.</strong> Sometimes you're replying or forwarding an email and you need to modify the subject. For example, you want to modify an email to send to someone else. It takes 3 clicks!! You first click on type of response. Edit subject. And then click into the subject. This is stupid.
+<strong>2. I can't easily change my email subject.</strong> Sometimes you're replying or forwarding an email and you need to modify the subject. For example, you want to modify an email to send to someone else. It takes 3 clicks!! You first click on type of response. Edit subject. And then click into the subject. This is stupid.
 
 
 <center><img alt="Edit Subject Gmail" src="{{site.url}}/assets/posts/Edit-Subject-Gmail.jpg" ></center>
@@ -25,17 +25,17 @@ Furthermore, it violates a powerful UI heuristic:
 
 <blockquote><a href="http://www.nngroup.com/articles/ten-usability-heuristics/">Recognition rather than recall</a> - Minimize the user's memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.</blockquote>
 
-3. <strong>Ok, so what if you want to insert a link or something.</strong> You have to hover over the + and then can click. That's 2 steps instead of one. If I wanted something so minimalist I would use gmail on my iPhone. It's not even saving space! You still have the bar there. If you really didn't want those buttons visible you can make them appear on hover over the whitespace of the bar instead.
+<strong>3. Ok, so what if you want to insert a link or something.</strong> You have to hover over the + and then can click. That's 2 steps instead of one. If I wanted something so minimalist I would use gmail on my iPhone. It's not even saving space! You still have the bar there. If you really didn't want those buttons visible you can make them appear on hover over the whitespace of the bar instead.
 
 <center><img alt="Gmail Hiding Buttons" src="{{site.url}}/assets/posts/Hiding-Buttons.jpg" ></center>
 
 Furthermore, I actually liked the check link feature that took you to the link URL. That's gone now.
 
-4. <strong>Rapportive doesn't work.</strong> You know when you're writing to someone, how awesome it is to see their latest tweets and see who they are? It's also an error prevention feature to confirm the email you're using is correct. By <a href="http://www.forbes.com/sites/alexkantrowitz/2013/04/05/gmails-new-compose-breaks-rapportive-perhaps-its-most-useful-plugin/">breaking Rapportive</a> and obscuring information such as the recipient's email address (only showing the name), hiding the "from" and "subject" fields, and concealing the signature part, Gmail makes it a lot easier for users to send flawed emails because users are not able to double check these fields.
+<strong>4. Rapportive doesn't work.</strong> You know when you're writing to someone, how awesome it is to see their latest tweets and see who they are? It's also an error prevention feature to confirm the email you're using is correct. By <a href="http://www.forbes.com/sites/alexkantrowitz/2013/04/05/gmails-new-compose-breaks-rapportive-perhaps-its-most-useful-plugin/">breaking Rapportive</a> and obscuring information such as the recipient's email address (only showing the name), hiding the "from" and "subject" fields, and concealing the signature part, Gmail makes it a lot easier for users to send flawed emails because users are not able to double check these fields.
 
 <blockquote>Usability Heuristic: Error Prevention - Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action.</blockquote>
 
-5. <strong>You can't easily get access to people's emails</strong>. You can't easily change your sending email address. You can't easily add cc or bcc. You can't easily add bullets and change fonts. You can't easily do anything other than reply. Everything is hidden. Even after you discover where everything is concealed, it still takes twice as long to do than before. While I'm not saying have as many buttons and ribbons as Microsoft Word, these are basic functions I use everyday. And it's entirely not convenient.
+<strong>5. You can't easily get access to people's emails</strong>. You can't easily change your sending email address. You can't easily add cc or bcc. You can't easily add bullets and change fonts. You can't easily do anything other than reply. Everything is hidden. Even after you discover where everything is concealed, it still takes twice as long to do than before. While I'm not saying have as many buttons and ribbons as Microsoft Word, these are basic functions I use everyday. And it's entirely not convenient.
 
 <center><img alt="Show More Details" src="{{site.url}}/assets/posts/Show-More-Details.jpg"></center>
 
@@ -47,7 +47,9 @@ So they're breaking another usability heuristic:
 <blockquote>Flexibility and efficiency of use - Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.</blockquote>
 
 You want to make something easy to use. But this feels like I've went from an automatic car to a standard. Why do I have to do all this work? Is it saving me gas? Is it more fun? Personally, no this does not make email more fun for me nor does it appear to be saving me gas.
+
 <h3>In conclusion.</h3>
+
 You're making something more basic and harder to use in favor of minimal design. This isn't search. You can't reduce a full-email platform down to a message box. If I wanted that, I'd use Facebook which supports email now.
 
 There is a tradeoff in HCI that is between ease and efficiency. It seems Gmail is less easy to use AND less efficient. The only improvement seems to be design.
@@ -80,7 +82,11 @@ This picture probably best sums up how unusable and silly the new 2013 Gmail is.
 Wow. I wanted a discussion on this but didn't realise it was going to be this big. From the <a href="https://news.ycombinator.com/item?id=5650202">Hacker New discuss page</a>, I realised I forgot to mention the new picture attachment design flaw. By attaching a picture, it inlines the picture into the email body. But if you don't want it in the body (aka delete picture from body), you don't know if the picture is still attached. No visual feedback to user.
 
 <strong>Related articles:</strong>
+
 FastCompany - <a href="http://www.fastcodesign.com/1672250/how-a-tiny-new-compose-window-could-reinvent-gmail" target="_blank">How A Tiny New Compose Window Could Reinvent Gmail</a>
+
 Quora - <a href="https://www.quora.com/Gmail/What-are-the-six-types-of-email-users-identified-by-Google/answer/Kevin-Fox" target="_blank">Gmail: What are the six types of email users identified by Google? Quora</a>
+
 Ghacks - <a href=" http://www.ghacks.net/2013/04/01/switch-to-gmails-old-compose-window/" target="_blank">Temporarily switch back to old compose mode</a>
+
 Gizmodo - <a href="http://gizmodo.com/5995218/a-cheat-sheet-of-every-single-gmail-keyboard-shortcut" target="_blank">Gmail shortcuts cheat sheet</a>

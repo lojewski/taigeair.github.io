@@ -27,10 +27,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 { margin-bottom: 1em; }
+
 p { 
-    font-size: .86em;
+    font-size: .8em;
     margin: .8em 0;
-    line-height: 1.61em;
+    line-height: 1.62em;
   }
 
 a         { color: red;
@@ -84,8 +85,9 @@ img {
   list-style-type: none;
 }
 
-.posts li {
+.posts li, .post li {
   line-height: 1.75em;
+  margin-bottom: 1em;
 }
 
 .posts span {
@@ -367,9 +369,11 @@ padding: 6px 10px 6px 0;
   overflow: hidden;
 }
 
-.post h2 {
+.post h2, .post h3 {
   font-size: 1.12em;
+  margin: 1em 0;
 }
+
 
 .post img{
 }
@@ -380,14 +384,28 @@ padding: 6px 10px 6px 0;
   padding: 0 .4em;
 }
 
-.post ul, .post ol {
+.post ul {
   list-style: none;
-  padding: 1em 3em 1em;
-  font-size: .9em;
+  list-style-position: inside;
+  padding: 1em 1em 1em;
+  font-size: .8em;
+}
+
+.post ol {
+  list-style-position: inside;
+  padding: 1em 1em 1em;
+  font-size: .8em;
+}
+
+
+
+ul.bullets {
+  font-size: .8em;
+  list-style: disc;
 }
 
 blockquote {
-  font-size: .67em;
+  font-size: .72em;
 }
 
 .post code {

@@ -31,7 +31,7 @@ With TuneIn Radio, you can effectively travel to anywhere in the world instanteo
 This is very cool. The ability to jump through space. You can spend a night in Vienna anytime you want. Another night in Tokyo. You can even listen to talk radio stations for languages you're trying to improve. So for me, that would be Chinese and German.
 
 So there's why radio surfing is great in bullets:
-<ul>
+<ul class="bullets">
 	<li>you feel like you're in that city</li>
 	<li>you discover a lot more new music</li>
 	<li>you'll improve your foreign languages or hear new ones</li>

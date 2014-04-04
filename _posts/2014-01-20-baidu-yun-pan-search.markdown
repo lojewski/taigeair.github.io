@@ -15,12 +15,17 @@ Go to: <a href="http://so.baiduyun.me" target="_blank">http://so.baiduyun.me</a
 <center>
 <img alt="Search Baidu Pan" src="{{site.url}}/assets/posts/Search-Baidu-Pan.png">
 </center>
+
 Search for what you want:
+
 <center>
 <img alt="Search Results" src="{{site.url}}/assets/posts/Search-Results-1024x555.png">
 </center>
+
 Add it to your drive or download it:
+
 <center>
 <img alt="Searched File" src="{{site.url}}/assets/posts/Searched-File.png" >
 </center>
+
 This is pretty simple and awesome! You should follow me on <a href="twitter.com/taigeair" target="_blank">Twitter</a> or <a href="http://feeds.feedburner.com/taigeair" target="_blank">Feedburner</a>.
