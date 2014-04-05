@@ -30,13 +30,15 @@ How a Person's Desirability Changes With Time
 <p>My old AP Psychology teacher from Gunn High School, Mr. Herbert was amazing. I still remember him telling me the twenties are the most stressful time for people and it gets a lot better in your thirties. Today I looked it up and here's the facts from the Pew Research Center:
 
 <center><img src="{{site.url}}/assets/posts/Percentage-Very-Happy-By-Age.png" alt="There are modest differences in happiness by age. Adults under 30 are less likely to be happy."></center>
-There are modest differences in happiness by age. Adults under 30 are less likely to be happy.
+
+<p>There are modest differences in happiness by age. Adults under 30 are less likely to be happy.
+</p>
 
 <center><img src="{{site.url}}/assets/posts/Happiness-Betwen-Men-and-Women-Over-Time.png" alt="Young Men Least Happy. Young men are less likely to be very happy than other men. Among women, there are smaller differences in happiness ratings by age."></center>
+
 Young men are less likely to be very happy than other men (are). Among women, there are smaller differences in happiness ratings by age.
 
-<center>Sources: <a href="http://www.pewsocialtrends.org/files/2012/02/SDT-Youth-and-Economy.pdf">Young, Underemployed and Optimistic. Coming of Age, Slowly, in a Tough Economy (2012)</a> and <a href="http://pewresearch.org/files/old-assets/social/pdf/AreWeHappyYet.pdf" target="_blank">Are We Happy Yet? (2006)</a></center>
-
+Sources: <a href="http://www.pewsocialtrends.org/files/2012/02/SDT-Youth-and-Economy.pdf">Young, Underemployed and Optimistic. Coming of Age, Slowly, in a Tough Economy (2012)</a> and <a href="http://pewresearch.org/files/old-assets/social/pdf/AreWeHappyYet.pdf" target="_blank">Are We Happy Yet? (2006)</a>
 But the more I looked, the more statistics I found, the more I realise how little we can trust statistics and how unpractical it is. 
 
 
@@ -52,6 +54,7 @@ But the more I looked, the more statistics I found, the more I realise how littl
 Oh hey Economist, you left out Canada! Thanks. And I'll ignore your comment on <a href="http://www.youtube.com/watch?v=JH2Mlj9BOIw" target="_blank">Asians -- at least Family Guy knows what's what</a>. And you realise you're referencing a "working paper" that's pulling data from another study...
 
 <a href="http://pewresearch.org/files/old-assets/social/pdf/AreWeHappyYet.pdf" target="_blank">Pew Research Center</a>:
+
 <blockquote>Married people are 19 percent happier than unmarried people.</blockquote>
 
 <blockquote>People with children in the house are less happy than those without.</blockquote> 
@@ -60,9 +63,11 @@ Oh hey Economist, you left out Canada! Thanks. And I'll ignore your comment on <
 
 Is my happiness because I'm Asian, under 30, highly educated, employed, unmarried, religious, in Canada, and have long 5HTT alleles? These findings are interesting but not very applicable because people find happiness in different things. Some people want to be married and some people not. Some people <a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/07/12/AR2008071201630.html" target="_blank">want to work</a> and some not. Plus I'm not an average. So I said F* it and I made my own infographic of "Happiness Over Time based on Life Events" based on what I observed in my 26 years on this planet.
 
-<center><img src="{{site.url}}/assets/posts/Money-and-Freedom-Infographic-1024x948.jpg" alt="People have more freedom and money as they age. Awesomeness begins when you have more money and power than time." width="710" height="657"></center>People have more freedom and money as they age. Awesomeness begins when you have more money and power than time.
+<center><img src="{{site.url}}/assets/posts/Money-and-Freedom-Infographic-1024x948.jpg" alt="People have more freedom and money as they age. Awesomeness begins when you have more money and power than time." width="710" height="657"></center>
 
-<p>I believe money is a faciliator. When we're young, we're held back by money and other resources. As we age, we accumlate more resources that allows us to do what we want and if we have the time (freedom), then that's when you feel awesome.</p>
+People have more freedom and money as they age. Awesomeness begins when you have more money and power than time.
+
+I believe money is a faciliator. When we're young, we're held back by money and other resources. As we age, we accumlate more resources that allows us to do what we want and if we have the time (freedom), then that's when you feel awesome.
 
 <center>...</center>
 
@@ -72,50 +77,58 @@ Is my happiness because I'm Asian, under 30, highly educated, employed, unmarrie
 
 <strong>4 Keys to Happiness</strong>
 
-In Tony Hsieh's book, <a href="http://www.amazon.com/gp/product/0446563048/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=0446563048&linkCode=as2&tag=torontot-20" target="_blank">Delivering Happiness</a>, he talks about 4 things that contribute to happiness. 
-
+<p>In Tony Hsieh's book, <a href="http://www.amazon.com/gp/product/0446563048/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=0446563048&linkCode=as2&tag=torontot-20" target="_blank">Delivering Happiness</a>, he talks about 4 things that contribute to happiness. 
+</p>
+<p>
 1. Perceived control - I did not have any control of my life in the past year. I didn't have control over where I'd be. How long things would take. Who I could see. What I would be doing. How much money I made. It was a difficult journey I chose for myself. Today, I realised I have a lot of control on what happens around me. I appreciate I can decide my future again.
-
+</p>
+<p>
 2. Perceived progress - Not only did I have no control over critical life events in the recent past, I did not feel any progress for what seemed like a long period. How do you end up from living in an amazingly spacious and sunny apartment in <a href="http://maps.google.com/maps?q=Wolliner+Stra%C3%9Fe+1,+Prenzlauer+Berg,+Berlin,+Germany&hl=en&ie=UTF8&ll=52.536129,13.404393&spn=0.00744,0.016973&sll=52.536045,13.404549&layer=c&cbp=13,120.03,,0,2.79&cbll=52.536055,13.404447&hnear=Wolliner+Stra%C3%9Fe+1,+Mitte+10435+Berlin,+Germany&t=m&z=16&panoid=grox_dbRI8j6Pc4iDKqK4A" target="_blank">Prenzlauer Berg</a> to a room in your parent's home? Sure, I made some good friends including Daryl and David this summer but I felt like I was failing.
-
+</p>
+<p>
 3. Connectedness - For a period, it felt like I only had 2-3 people in the world besides my mom that really cared about me and I depended on them a lot: Jason, Anna, and Anele. In addition, Kelvin, Kane, Shams, Bo, Jenna, Ross, Zifan, and Chenyang were also very helpful. But the only person from that list who was physically there for me was Jason. Everyone else was miles and miles away. It wasn't great. Now I have a lot more close friends who are actually close by. And the keystone is Charles, a close friend I met first year in college who is now a philanthropist. Hard to believe that's his "job" now.
-
+</p>
 <center><iframe width="560" height="315" src="http://www.youtube.com/embed/2JcFtXnQwm8" frameborder="0" allowfullscreen></iframe></center>
-
+<p>
 4. Higher purpose - Meaning. I see purpose in my life. As defined and described below. 
+</p>
 
 <strong>Defining Higher Purpose</strong>
-
+<p>
 I believe 4 things contribute to higher purpose and living a happy life with meaning.
-
+</p>
+<p>
 1. Fighting & Conflict - I actually enjoy fighting what I consider to be evil or injust. I think it is <a href="http://www.imdb.com/title/tt0454876/" target="_blank">an essence of life</a> - if you have something to fight for, you're living with passion and purpose. If you're fighting for yourself, it can be very worthy but if you're fighting for something you believe in, it will be majestic. I think Steve Jobs lived life with a purpose and his <a href="http://news.stanford.edu/news/2005/june15/jobs-061505.html">Stanford Commencement speech</a> is a great reminder to live with meaning. I've been instigated in a fight recently. Fighting means the possiblity of losing but what most people don't realise is... you can have an advantage just by wanting it more.
-
+</p>
 <center><img src="{{site.url}}/assets/posts/life-of-pi.jpg" alt="Tiger on Boat from Life of Pi" ></center>
-
+<p>
 Someone once said: 
-
+</p>
 <blockquote>If you want it badly enough, you can be the last person on the bus.</blockquote>
-
-2. Career - I haven't really counted but I've had quite a few jobs in my life. I've been blessed to do what I want quite often. When I was at Apple I thought to myself, wouldn't it be good to be in Product Management? It looks like those guys are having all the fun building things. Once I mastered that I thought, wouldn't it be cool to learn Product Marketing? Guess what? I'm doing Product Marketing at a <a href="https://www.kera.io/" target="_blank">startup</a>. 
-
-I don't know if people outside the Valley know how awesome it is to work for a startup. But it's so awesome to work in small teams, on dreams, learn and grow exponentially personally and as a company (or die trying), and have the <a href="http://www.nytimes.com/2011/03/26/technology/26recruit.html" target="_blank">best perks</a> in the world. Even the <a href="http://money.cnn.com/magazines/fortune/best-companies/" target="_blank">top company in the world</a>, Google <a href="http://techcrunch.com/2011/04/09/foursquare-wants-to-help-google-employees-get-massive-counteroffers-too/" target="_blank">works very hard</a> to stop their employees from going to startups. Sure, we might run out of money in the next 6 month but so do "safe" companies like Lehmans and Blockbuster. Instead it's up to us to make it succeed. 
-
-I'd rather be challenged in my job than waste my time at a large company (at this stage of my life). I'd rather fight and feel significant than feel like I'm trading my time for money. So you could say, I'm happy with what I'm doing in my career. Working at a startup that's <a href="http://techcrunch.com/2013/02/08/kera-adds-subtitle-option-and-analytics-to-its-guided-interactive-web-tool-tutorials/" target="_blank">trying to change the world</a> with smart people such as Cameron. Who could ask for more? I wouldn't want to work for any other company in Toronto. 
-
-3. Hobby - My favourite things to do in the world are comedy, sailing, swimming, and surfing. Some people blog or garden as a hobby. I like making ideas into reality. One of the things I'm most proud of is <a href="http://ufashion.sa.utoronto.ca/" target="_blank">ufashion</a> (the fashion group at University of Toronto) that I started in my final year of university. Founded in 2006 and 6 presidents later, it is still "the" fashion group at Canada's <a href="http://www.president.utoronto.ca/secure-content/uploads/2012/06/CanadaUniversityEnrolments.pdf" target="_blank">largest university</a>. I've gotten involved with the co-presidents this year, Frances and Tiffany. I'll be mostly hands off but am excited to get involved again.
-
-<a href="https://www.facebook.com/groups/102146126561029"><center><img src="{{site.url}}/assets/posts/ufashion-group.jpg" alt="University of Toronto Fashion Group on FB" ></center></a> University of Toronto Fashion Group on Facebook
-
+<p>2. Career - I haven't really counted but I've had quite a few jobs in my life. I've been blessed to do what I want quite often. When I was at Apple I thought to myself, wouldn't it be good to be in Product Management? It looks like those guys are having all the fun building things. Once I mastered that I thought, wouldn't it be cool to learn Product Marketing? Guess what? I'm doing Product Marketing at a <a href="https://www.kera.io/" target="_blank">startup</a>. 
+</p>
+<p>I don't know if people outside the Valley know how awesome it is to work for a startup. But it's so awesome to work in small teams, on dreams, learn and grow exponentially personally and as a company (or die trying), and have the <a href="http://www.nytimes.com/2011/03/26/technology/26recruit.html" target="_blank">best perks</a> in the world. Even the <a href="http://money.cnn.com/magazines/fortune/best-companies/" target="_blank">top company in the world</a>, Google <a href="http://techcrunch.com/2011/04/09/foursquare-wants-to-help-google-employees-get-massive-counteroffers-too/" target="_blank">works very hard</a> to stop their employees from going to startups. Sure, we might run out of money in the next 6 month but so do "safe" companies like Lehmans and Blockbuster. Instead it's up to us to make it succeed. 
+</p>
+<p>I'd rather be challenged in my job than waste my time at a large company (at this stage of my life). I'd rather fight and feel significant than feel like I'm trading my time for money. So you could say, I'm happy with what I'm doing in my career. Working at a startup that's <a href="http://techcrunch.com/2013/02/08/kera-adds-subtitle-option-and-analytics-to-its-guided-interactive-web-tool-tutorials/" target="_blank">trying to change the world</a> with smart people such as Cameron. Who could ask for more? I wouldn't want to work for any other company in Toronto. 
+</p>
+<p>3. Hobby - My favourite things to do in the world are comedy, sailing, swimming, and surfing. Some people blog or garden as a hobby. I like making ideas into reality. One of the things I'm most proud of is <a href="http://ufashion.sa.utoronto.ca/" target="_blank">ufashion</a> (the fashion group at University of Toronto) that I started in my final year of university. Founded in 2006 and 6 presidents later, it is still "the" fashion group at Canada's <a href="http://www.president.utoronto.ca/secure-content/uploads/2012/06/CanadaUniversityEnrolments.pdf" target="_blank">largest university</a>. I've gotten involved with the co-presidents this year, Frances and Tiffany. I'll be mostly hands off but am excited to get involved again.
+</p><center>
+<p>University of Toronto Fashion Group on Facebook</p>
+</center>
+<center>
+<a href="https://www.facebook.com/groups/102146126561029"><img src="{{site.url}}/assets/posts/ufashion-group.jpg" alt="University of Toronto Fashion Group on FB" ></a> </center>
+<p>
 A consumer brand. How many people are lucky enough to be the owner of a consumer brand? <a href="http://www.wellingtonstravel.com/" target="_blank">Wellingtons Travel Co.</a> is a hobby business of mine that I hope to build into a house-hold name for vintage, travel, and cartography with my partner and friend Anna Butler. She is an amazing person who took an idea of mine from 2009 and spent 3 years to make it into something real. Of course, I'd quit my job and move to a different country to start it. Of course, I'd go knock on every door on high street. Of course, I'd learn how to drive a manual car for 3 hours in a Polish parking lot. Of course, I'll go to China to mass produce a product we dreamed up. How many people can see their products being sold in stores? It felt surreal for me.
-
+</p>
+<p>
 <center><iframe align="center" frameborder="0" height="500" scrolling="no" src="http://www.flickr.com/slideShow/index.gne?set_id=72157629311141598" width="460"></iframe></center>
-
+</p>
+<p>
 We are not focused on retail anymore but we're doing better than ever <a href="http://www.wellingtonstravel.com/wall-map-london/" title="Map Shop" target="_blank">online</a>. Thank you to everyone that bought a map from us. We really appreciate it. We promise to delight you with more products in the future. 
-
-4. Family - I'd like to have a family and kids. Don't miss out on having kids.
-
+</p>
+<p>4. Family - I'd like to have a family and kids. Don't miss out on having kids.
 <a href="https://www.quora.com/Family-and-Families/What-is-it-like-to-be-an-adult-and-not-have-kids/" target="_blank">Quora</a> and <a href="http://www.slate.com/blogs/quora/2012/12/28/what_is_it_like_to_be_an_adult_and_not_have_kids.html" target="_blank">Slate</a>:
-
+</p>
 <blockquote>
 [You] spend half your life chasing away boredom. There comes a time in life when you ask yourself: What the hell am I doing this for? What is the point of it all? Surely it has nothing to do with how many horses I have under the hood, gigs in the PC, or zeroes in the bank. Surely it has nothing to do with how good I look, how good she looks, or how witty I am at parties. Surely it has nothing to do with anything I've ever thought, read, said, or written.
 

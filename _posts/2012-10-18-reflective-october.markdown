@@ -7,6 +7,7 @@ categories: life
 ---
 
 <center><iframe width="600" height="480" src="http://www.youtube.com/embed/QphglQu3oL0" frameborder="0" allowfullscreen></iframe></center>
+
 I'm now in Canada. I recently joined a really amazing startup called Kera. It is the best way to teach someone how to use your app or website online. Check out the demo: <a href="https://www.kera.io/" target="_blank">kera.io</a> 
 
 I'm really reflective right now like <a href="http://www.youtube.com/watch?v=5A_Rl8aQxII" target="_blank">Mulan</a>, except I'm not indecisive or anything. I'm just a little in awe of my experiences and reminiscing on passed moments. Maybe it's the fall. Maybe it's starting in a new city. Maybe it's starting a new job. Maybe it's a new home. Or maybe it's because almost exactly a year ago I left Berlin. It was actually on Halloween. Some dates I'll always remember. 5/5 first day at Apple. 11/11 incorporation of my company. 1/1 first girlfriend.

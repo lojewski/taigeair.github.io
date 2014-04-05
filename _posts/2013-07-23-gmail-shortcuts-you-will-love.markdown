@@ -46,36 +46,41 @@ If you look at my usage stats above, you'll see more than 70% of my messages I d
 <iframe width="640" height="360" src="//www.youtube.com/embed/0cWW_ieo9ic" frameborder="0" allowfullscreen></iframe></div>
 
 <h2>Setup Instructions</h2>
-1. Go to Gmail Labs in Settings. 
+
+<p>1. Go to Gmail Labs in Settings.</p> 
+
 <center><img src="{{site.url}}/assets/posts/Settings.jpg" alt="Settings" ></center>
 
-2. Enable Custom Keyboard Shortcuts
+<p>2. Enable Custom Keyboard Shortcuts</p>
 <center><img src="{{site.url}}/assets/posts/Gmail-Labs-Custom-Keyboard-Shortcuts2.jpg" alt="Gmail Labs Custom Keyboard Shortcuts2"></center>
 
-3. Update the shortcuts accordingly. I've stripped out the other shortcuts to focus on only the ones you need to change. I don't know what "Teach Gmail" means so I left it in there :)
+<p>3. Update the shortcuts accordingly. I've stripped out the other shortcuts to focus on only the ones you need to change. I don't know what "Teach Gmail" means so I left it in there :)
 
-Yours will look like this right now.
+Yours will look like this right now.</p>
 
 <center><img src="{{site.url}}/assets/posts/Gmail-Shortcut-Original.jpg" alt="Gmail Shortcut Original" ></center>
 
-
-Change yours to make it look like this.
+<p>Change yours to make it look like this.</p>
 
 <center><img src="{{site.url}}/assets/posts/Delete-All-Unread-Email-Gmail-Shortcut.jpg" alt="Delete All Unread Email Gmail Shortcut" ></center>
 
-4. Hit "save changes".
+<p>4. Hit "save changes".</p>
 
+<p>
 <strong>Using the shortcut</strong>
 1. Go to your inbox or tabs. 
 2. Read the emails you want and leave the emails you want to delete as "unread". 
 3. To delete: type the letters "e" and "d". 
 4. Done. Time to <a href="http://youtu.be/HG9paM_3QRM?t=4m12s" target="_blank">feel good about yourself</a>. 
+</p>
 
 <h2>Conclusion</h2>
 
 <center><img src="{{site.url}}/assets/posts/taige-hen-像一个老板.jpg" alt="taige hen 像一个老板" ></center>
 
+<p>
 <strong>You can now manage your email 像一个老板. If you love this, tell your friends. <a href="https://twitter.com/intent/tweet?text=I'm+loving+gmail+with+@taigeair's+delete+all+unread+emails+shortcut!+Check+it+out+at+http://www.taigeair.com/gmail-shortcuts-you-will-love/" target="_blank">Click here!</a> Or share using one of the social buttons below.</strong>
+</p>
 
 <center><h2>Gmail Tips Appendix <span id="show-apx">(<a style="cursor:pointer;" onclick="show();">click to show</a>)</span></h2></center>
 

@@ -84,12 +84,14 @@ Some of the best articles on viral marketing I've read are these by David Skok: 
 	<li>% Paying - percentage of users paying out of total users.</li>
 </ul>
 
-<strong>Customer Life Time Value</strong> is like cohort analysis in that it's extremely valuable and a bit complicated. Check out KISSMetric's article on <a href="http://blog.kissmetrics.com/how-to-calculate-lifetime-value/">calculating Customer Life Time Value article</a>. HBS has <a href="http://hbsp.harvard.edu/multimedia/flashtools/cltv/">a CLTV calculator</a>. This Top 10 Social Gaming Metrics presentation is also pretty useful.
+<strong>Customer Life Time Value</strong> is like cohort analysis in that it's extremely valuable and a bit complicated. Check out KISSMetric's article on <a href="http://blog.kissmetrics.com/how-to-calculate-lifetime-value/">calculating Customer Life Time Value article</a>. HBS has <a href="http://hbsp.harvard.edu/multimedia/flashtools/cltv/">a CLTV calculator</a>. This <a title="Top 10 Social Gaming Metrics" href="http://www.slideshare.net/jefftee/top-10-social-gaming-metrics-2353273" target="_blank">Top 10 Social Gaming Metrics</a> from <a href="http://www.slideshare.net/jefftee" target="_blank">jefftee</a> is pretty useful.
 
 <center>
-<iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/2353273" height="356" width="427" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></center>
 
-<div style="margin-bottom: 5px;"><strong> <a title="Top 10 Social Gaming Metrics" href="http://www.slideshare.net/jefftee/top-10-social-gaming-metrics-2353273" target="_blank">Top 10 Social Gaming Metrics</a> </strong> from <strong><a href="http://www.slideshare.net/jefftee" target="_blank">jefftee</a></strong></div>
+<iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/2353273" height="356" width="427" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</center>
+
+
 
 <h3>How do you decide what to test (and build)?</h3>
 We usually look at the funnel and see where we can improve that will result in the biggest net effect. What project will give the highest ROI given the objective of the company at this time (i.e. engagement, retention, virality, or monetization)?
@@ -99,47 +101,46 @@ Again, let's look at the metrics and think of things we can do to try to improve
 <strong>Examples of Ways to Improve Acquisition Metrics</strong>
 
 <ul>
-	<li>Click-through rate (CTR)
+	<li>Click-through rate (CTR)<br>
 This can be improved by changing the copy, visuals, and placement. Providing more signup options. Adding animation. Lightboxing. Changing the content type (i.e. make it a video or slider or ajax).</li>
-	<li>Time
+	<li>Time<br>
 This can be increased by giving the user more things to look at or do, removing elements, changing the visuals, adding video, and changing the copy. It's effective to use A/B testing and track the visitor through your funnel or split-test cohort analysis. <a href="http://techblog.netflix.com/2011/01/how-we-determine-product-success.html">Netflix uses split cohort experiments</a> to determine product success.</li>
-	<li>Tasks did
+	<li>Tasks did<br>
 Once you find what actions increase user acquisition or activation you can optimise your website or application to drive that task completion. For example, at Kera we found if someone watched our tutorial, they were more than 3X to sign up. Thus we made it a priority to optimise our site for people to watch the tutorial. One way to boost conversion to that task is remove other clutter and then A/B test copy and visuals.</li>
-	<li>DAU &amp; MAU
+	<li>DAU &amp; MAU<br>
 These are vanity metrics which won't tell you why things are this way or how to improve but still good to track for overall picture.</li>
-	<li>Entry points
+	<li>Entry points<br>
 Entry points are very important. This is split into two categories: marketing and product. I'll talk about product improvements in the viral metrics section. Here, you can work on ways to improve conversion for the largest volume channels and increase traffic for lowest cost channels and best converting channels. You should try lots of user acquisition channels. <a href="http://www.growhack.com/" target="_blank">GrowHack</a> is a good website on the subject and the TreeHouse has a <a href="http://blog.teamtreehouse.com/startup-founders-reveal-their-1-user-acquisition-tactic" target="_blank">good article</a>.</li>
-	<li>Exit points
+	<li>Exit points<br>
 In general, you want people to stay on your site so try to improve parts of your site that have higher than normal exit rates. Why are they leaving from that part of the site? Can you convince them to stay? You can improve the copy, change the visuals, add or remove elements, or maybe even remove that page altogether.</li>
-	<li>Install/DAU
+	<li>Install/DAU<br>
 Again this depends what you want to do. If you want to increase signups you can do it with marketing and viral features. It's important to monitor retention rate because a dip in retention rate in make it seem like you're getting more virality.</li>
-	<li>CPA
+	<li>CPA<br>
 You should spend more money and resources on marketing channels that give you the lowest CPA until you see marked diminishing rates of return. However, you should also track this through the funnel to see if those signups convert into paying customers.</li>
 </ul>
 <strong>Examples of Ways to Improve Activation Metrics</strong>
 <ul>
-	<li>Time
+	<li>Time<br>
 You may want to increase or decrease the time people spend on your site or application. For example, Google wants you to leave its homepage as fast as possible but wants you to come back. If you're Freshbooks, you want people to create invoices as fast as possible and be done with it. Most sites want to increase this engagement metric because it means your product is interesting, useful, or valuable to people. You can improve this by providing better user experience, reducing website speed, making things easier, etc. In general, you should refine your features so they work really well and are easy to use rather than introducing new ones. If you're a content website, <a href="http://blog.kissmetrics.com/future-of-content-marketing/" target="_blank">make longer higher quality content</a>.</li>
-	<li>Click-through rate (CTR)
+	<li>Click-through rate (CTR)<br>
 This can be improved by changing the copy, visuals, and placement. Reducing perceived risks and increasing rewards. Adding animation. Lightboxing. Changing the content type.</li>
-	<li>Tasks did
+	<li>Tasks did<br>
 Increase visibility of those tasks, add rewards, reduce perceived risks, content gating, adding it to a to-do list, putting it in a progress meter, prompting the user. <a href="https://qualaroo.com/" target="_blank">Try Qualaroo</a>.</li>
-	<li>Goal completion
+	<li>Goal completion<br>
 You can drive goal completion by making the steps linear and preventing users from doing anything else unless they complete the goal. For example, after you sign up for Twitter they make you follow people. There is only the next button which is inactive unless you follow at least 5 people.</li>
-	<li>First action
+	<li>First action<br>
 If you're Twitter and you see cohorts with first action being follow someone has a retention rate of 30% compared to first action being change profile picture with retention rate 20%, you should probably introduce follow someone in your onboarding process first. Keep learning from this once you've changed your application to require users to follow someone, what's the next first action that drives retention?</li>
-	<li>Last action
+	<li>Last action<br>
 Potentially these are places users are getting stuck or confused. Test things you can do to help them get through it or drive them somewhere else before they leave. Keep them busy with more tasks. Improve the user experience. Olark or Qualaroo can likely help.</li>
 </ul>
 
 <strong>Examples of Ways to Improve Retention Metric</strong>
 
 <ul>
-	<li>1-day, 3-day, 7-day, and 30-day retention rates
-For a web application, the advice is make it useful. For a website, it's make it valuable. And for a game, make it fun. There are tactics you can use to get people to come back though. I've brainstormed a few.For example, social games have timers that you set and need to come back around that time to get the reward. Games can have things happen while the player is gone, so when they return there's fun stuff to interact with. Likewise, websites need to update their content so readers come back. Facebook, Twitter, and SoundCloud have streams and feeds which are like information crack. That's why email is so addictive :)
-
-You can make it more social as well. If you have friends who are sending you messages on it and engaging with you, it's harder to stay away. It's a feeling of obligation. Facebook asks old users to welcome new users by writing on their wall to get the ball rolling.</li>
-
+	<li>1-day, 3-day, 7-day, and 30-day retention rates<br>
+	For a web application, the advice is make it useful. For a website, make it valuable. And for a game, make it fun. There are tactics you can use to get people to come back though. I've brainstormed a few. For example, social games have timers that you set and need to come back around that time to get the reward. Games can have things happen while the player is gone, so when they return there's fun stuff to interact with. Likewise, websites need to update their content so readers come back. Facebook, Twitter, and SoundCloud have streams and feeds which are like information crack. That's why email is so addictive :)
+	<br>&nbsp;<br>
+	You can make it more social as well. If you have friends who are sending you messages on it and engaging with you, it's harder to stay away. It's a feeling of obligation. Facebook asks old users to welcome new users by writing on their wall to get the ball rolling.</li>
 	<li>Daily revisits - I brainstormed some tactics and strategies to boost daily and overall retention. Ideas:
 <ol>
 	<li>Improve revisits by limiting the amount of things a user can do at once.</li>
@@ -160,9 +161,9 @@ You can make it more social as well. If you have friends who are sending you mes
 	<li>Time based events (i.e. remember Pokemon? You had to stay up until 9pm to catch a Caterpie. And this <a href="http://boktai.neoseeker.com/wiki/Solar_Sensor">game</a> takes it to a higher level.).</li>
 </ol>
 </li>
-	<li>Median Return Time
+	<li>Median Return Time<br>
 Create rewards to come back sooner, insert punishments for being away too long (remember your baby Tamagotchi?), shorten timers and appointments, and increase the pace of the content or game.</li>
-	<li>Re-marketing Effectiveness
+	<li>Re-marketing Effectiveness<br>
 You can drive existing customers back with advertising, newsletters, notifications, RSS, social media mentions, etc. For example, if you use an iOS device you'll get lots of notification from apps trying to get you to re-engage. Facebook sends you a lot of emails recommending friends for you to add if you're a new Facebook user. Twitter sends you people who are similar to those that you follow. Airbnb sends you text messages about your booking. Tips: Improve copy, have a CTA, and give rewards i.e. sale, coupon, free gift.</li>
 </ul>
 <strong>Examples of Ways to Improve Referral Metric</strong>
@@ -193,13 +194,13 @@ You can drive existing customers back with advertising, newsletters, notificatio
 <strong>Examples of Ways to Improve Revenue Metrics</strong>
 
 <ul>
-	<li>Customer Life Time Value and LTNV
+	<li>Customer Life Time Value and LTNV<br>
 Increase virality, ARPU, or user life time. Customer life time can be lengthened by good user experience, brand loyalty, new features, new missions, introducing internal economy (i.e. google apps, Eve Online, Amazon Affiliates), create some setbacks, and new content.</li>
-	<li>ARPU
+	<li>ARPU<br>
 Sell more things (i.e. what are people willing to pay for?). Wider range of pricing. Renting. Internal economy (allow users to buy, sell, exchange i.e. apple takes 30% of app revenue.). Adding new revenue streams such as advertising, product placement, and deals (those surveys you know?).</li>
-	<li>ARPPU
+	<li>ARPPU<br>
 Try increasing the price until it reaches market price. Careful not to hurt repeat buying by setting the price too high. Introduce luxury goods and features. Sell addons. Even apple sells headphones and cases. There's no shame in it, unless you're like Ryanair. That's just evil.</li>
-	<li>% Paying
+	<li>% Paying<br>
 More touch points for payment. More payment options. Better features or goods worth buying. Increase scarcity i.e. have a limited time deal. Reduce price. Add freebies for purchasing. Incentivise first time buyers. Give away free redeemable coupons (get them familiar with buying process). Ask for payment information up front (i.e. Apple's App Store). Restrict features (i.e. Rdio limits plays per month). Give free a trial and optimise it (i.e. test trial length, features accessible, etc.). Change what's included in packages (i.e. Spotify mobile app only available for paying users).</li>
 </ul>
 <h3>Conclusion</h3>

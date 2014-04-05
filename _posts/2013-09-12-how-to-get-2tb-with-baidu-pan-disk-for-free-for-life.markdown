@@ -1,7 +1,7 @@
 ---
 layout: post
 type: post
-title:  "How to get 2TB Cloud Storage for Free with Baidu Pan (Drive)"
+title:  "How to Get 2TB Cloud Storage for Free with Baidu Pan (Drive)"
 date:   2013-09-12 14:33:19
 categories: tech
 ---

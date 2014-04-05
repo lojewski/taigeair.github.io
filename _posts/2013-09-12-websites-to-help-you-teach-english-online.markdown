@@ -40,6 +40,7 @@ So how do you find your first pupils? Here's a list of top language websites to 
 </strong>
 
 <a href="http://www.colingo.com/teach"><center><img src="{{site.url}}/assets/posts/Colingo-1024x720.jpg" alt="Colingo" ></center></a>
+
 Based in San Francisco, Colingo is a language learning and teaching marketplace. It offers students classes and 1-on-1 sessions over live online video chat. As a teacher, you'll work from home to teach English to small groups over videochat online. Commitment can be as little as 1 or 2 hours a day. Earn $14 for each hour-long class.
 
 Languages you can teach on Colingo: English
