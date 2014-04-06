@@ -10,6 +10,7 @@ Kera laid off all employees recently (<a href="http://techcrunch.com/2013/04/22/
 
 I'd like to share some of those learnings. First, I'll go over the tests used in a lean startup. Second, the AARRR metrics that we tracked. And third, some ideas on how to improve those metrics.
 <h3>Testing in Lean Startups</h3>
+
 There are 4 tests that are really useful for a startup.
 
 <ul>

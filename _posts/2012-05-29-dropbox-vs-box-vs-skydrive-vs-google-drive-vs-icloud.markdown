@@ -19,7 +19,7 @@ I think the first cloud file service I used was <a href="https://www.box.com/" t
 <a href="https:/www.dropbox.com" title="Dropbox" target="_blank">Dropbox</a> is the easiest to use and most consumer friendly cloud storage and sync service. I started using it in 2008 when I was interning at Seedcamp and started telling people about this product ever since. I have 18GB for free because in addition to the 2GB of free storage, they give you 500mb for each person you invite, and other bonuses such as if you use their camera import service. Dropbox has a great desktop sync service and poor web interface, but it's usability is fantastic especially for consumers. You can actually use it to host files publicly and I used it when I didn't have web hosting.
 
 Example:
-<p><center><iframe src="http://dl.dropbox.com/u/1666855/WT%20Grand%20Map%20London%202012/embed.html" frameborder="0" scrolling="no" width="800" height="380"></iframe></center><br />
+<p><div class="video-wrapper"><iframe src="http://dl.dropbox.com/u/1666855/WT%20Grand%20Map%20London%202012/embed.html" frameborder="0" scrolling="no" width="800" height="380"></iframe></center><br />
 <center><br />
 <a href="http://www.wellingtonstravel.com/" target="_blank">Learn more about the map</a>
 </center></p>

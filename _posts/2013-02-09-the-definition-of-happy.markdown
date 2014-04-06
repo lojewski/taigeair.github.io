@@ -88,7 +88,7 @@ I believe money is a faciliator. When we're young, we're held back by money and 
 <p>
 3. Connectedness - For a period, it felt like I only had 2-3 people in the world besides my mom that really cared about me and I depended on them a lot: Jason, Anna, and Anele. In addition, Kelvin, Kane, Shams, Bo, Jenna, Ross, Zifan, and Chenyang were also very helpful. But the only person from that list who was physically there for me was Jason. Everyone else was miles and miles away. It wasn't great. Now I have a lot more close friends who are actually close by. And the keystone is Charles, a close friend I met first year in college who is now a philanthropist. Hard to believe that's his "job" now.
 </p>
-<center><iframe width="560" height="315" src="http://www.youtube.com/embed/2JcFtXnQwm8" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-wrapper"><iframe width="560" height="315" src="http://www.youtube.com/embed/2JcFtXnQwm8" frameborder="0" allowfullscreen></iframe></div>
 <p>
 4. Higher purpose - Meaning. I see purpose in my life. As defined and described below. 
 </p>
@@ -119,9 +119,6 @@ Someone once said:
 <a href="https://www.facebook.com/groups/102146126561029"><img src="{{site.url}}/assets/posts/ufashion-group.jpg" alt="University of Toronto Fashion Group on FB" ></a> </center>
 <p>
 A consumer brand. How many people are lucky enough to be the owner of a consumer brand? <a href="http://www.wellingtonstravel.com/" target="_blank">Wellingtons Travel Co.</a> is a hobby business of mine that I hope to build into a house-hold name for vintage, travel, and cartography with my partner and friend Anna Butler. She is an amazing person who took an idea of mine from 2009 and spent 3 years to make it into something real. Of course, I'd quit my job and move to a different country to start it. Of course, I'd go knock on every door on high street. Of course, I'd learn how to drive a manual car for 3 hours in a Polish parking lot. Of course, I'll go to China to mass produce a product we dreamed up. How many people can see their products being sold in stores? It felt surreal for me.
-</p>
-<p>
-<center><iframe align="center" frameborder="0" height="500" scrolling="no" src="http://www.flickr.com/slideShow/index.gne?set_id=72157629311141598" width="460"></iframe></center>
 </p>
 <p>
 We are not focused on retail anymore but we're doing better than ever <a href="http://www.wellingtonstravel.com/wall-map-london/" title="Map Shop" target="_blank">online</a>. Thank you to everyone that bought a map from us. We really appreciate it. We promise to delight you with more products in the future. 

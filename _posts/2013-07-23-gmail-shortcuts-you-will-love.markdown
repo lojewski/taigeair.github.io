@@ -42,8 +42,10 @@ Anyways, I wasn't aware how much I needed a 1-click to delete all my unread mess
 
 If you look at my usage stats above, you'll see more than 70% of my messages I delete. So a small 1-click button or shortcut to delete all my unread messages would be a highly appreciated feature. It would save a ton of clicks, especially with several tabs which requires you to do your email checking workflow for each tab.
 
-<div id="gmail-video" style="text-align:center;padding:14px;"><strong>See how it works.<br></strong>
-<iframe width="640" height="360" src="//www.youtube.com/embed/0cWW_ieo9ic" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><strong>See how it works.<br></strong>
+<iframe src="//www.youtube.com/embed/0cWW_ieo9ic" frameborder="0" allowfullscreen></iframe></div>
+
+<br>
 
 <h2>Setup Instructions</h2>
 

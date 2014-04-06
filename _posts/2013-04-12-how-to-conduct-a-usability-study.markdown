@@ -125,7 +125,7 @@ Did you understand you'd be getting a widget for your website?</p>
 <p><strong>Checklists for your usability study.</strong>&nbsp;Get it <a href="http://www.scribd.com/doc/132504143/Web-Usability-Test-Checklists-Don-t-Make-Me-Think-by-Steve-Krug" target="_blank">here</a>.</p>
 <p><strong>Template for planning usability study.</strong> Get it <a href="http://www.scribd.com/doc/132547427/Chapter-05-Test-Plans-and-Designs" target="_blank">here</a>.&nbsp;More templates on <a href="http://www.usability.gov/templates/">usability.gov</a></p>
 <p><strong>Example of an expert conducting a usability study for Zipcar.</strong> See it on <a href="http://www.youtube.com/watch?v=QckIzHC99Xc">YouTube</a>.</p>
-<center><iframe frameborder="0" height="360" src="http://www.youtube.com/embed/QckIzHC99Xc" width="480"></iframe></center>
+<div class="video-wrapper"><iframe frameborder="0" height="360" src="http://www.youtube.com/embed/QckIzHC99Xc" width="480"></iframe></center>
 <p><strong>&nbsp;</strong></p>
 <p><strong>Example of usability study process for Boxee.</strong> Read the article <a href="http://uxmag.com/articles/the-ux-design-process-for-the-boxee-beta" target="_blank">here</a>.&nbsp;</p>
 <p><strong>UX Books, classes, people and more.</strong></p>
@@ -139,7 +139,7 @@ Did you understand you'd be getting a widget for your website?</p>
 <p><a href="https://twitter.com/whitneyhess" target="_blank">Whitney Hess</a> is a UX designer who has really gone out of her way to help aspiring UX designers and people interested in this field like me. Some good ones:&nbsp;<a href="http://whitneyhess.com/blog/2009/06/30/so-you-wanna-be-a-user-experience-designer-step-1-resources/" target="_blank">So you want to be a user experience designer</a>,&nbsp;<a href="http://whitneyhess.com/blog/2011/04/23/youre-not-a-user-experience-designer-if/" target="_blank">You're not a user experience designer if</a>,&nbsp;<a href="http://whitneyhess.com/resources/" target="_blank">Whitney Hess's recommend UX resources</a>, and&nbsp;<a href="https://twitter.com/whitneyhess/uxers" target="_blank">UXers Twitter List</a>.</p>
 <p>This is my Usability Toolkit shared folder where I keep a lot of my resources for user experience design.&nbsp;Say hi and <a href="http://twitter.com/taigeair" target="_blank">get in touch over Twitter</a>&nbsp;if you want to be a&nbsp;collaborator. &nbsp; &nbsp;</p>
 </blockquote>
-<center><iframe frameborder="0" height="400" src="https://www.box.com/embed_widget/aee37e77d505/s/hyvbz37wzk3x70idcugr?view=list&amp;sort=name&amp;direction=ASC&amp;theme=blue" width="500"></iframe>
+<div class="video-wrapper"><iframe frameborder="0" height="400" src="https://www.box.com/embed_widget/aee37e77d505/s/hyvbz37wzk3x70idcugr?view=list&amp;sort=name&amp;direction=ASC&amp;theme=blue" width="500"></iframe>
 </center>
 
 <p>---</p>

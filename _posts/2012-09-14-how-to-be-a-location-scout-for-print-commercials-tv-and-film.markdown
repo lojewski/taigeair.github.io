@@ -8,6 +8,7 @@ categories: commercial, film, how to, location manager, location scout, tv
 ---
 
 <center><img src="{{site.url}}/assets/posts/418828_10101324038069172_62527085_n.jpg" alt="" title="Just Walking Down the Road" ></center>
+
 It seems to me life is more and more about who you know and who knows you. Being a Location Scout was one of my possible career choices when I was younger. It seemed like a really awesome job that had highly desired elements: being able to travel, being in the entertainment industry, seeing your work make a difference, and having good work variety. 
 
 Today I met a Location Scout from <a href="http://www.pinpointlocations.ca">Pinpoint Locations</a> and must have asked 20-30 questions! Here are the major ones:

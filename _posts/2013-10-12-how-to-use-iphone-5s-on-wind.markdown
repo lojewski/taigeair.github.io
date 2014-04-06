@@ -18,9 +18,9 @@ To get this, you need to jump through a few hoops and do a few things. Here's ho
 
 Make sure metal faces down. If you won't want to, it's $10 for existing customers and $25 for new customers. Here's a video that shows you how to cut it.
 
-<center>
-<iframe src="//www.youtube.com/embed/j6T1Mygucak" height="360" width="100%" allowfullscreen="" frameborder="0"></iframe>
-</center>
+<div class="video-wrapper">
+<iframe src="//www.youtube.com/embed/j6T1Mygucak" allowfullscreen="" frameborder="0"></iframe>
+</div>
 
 Your cellular services should work now but not data.
 

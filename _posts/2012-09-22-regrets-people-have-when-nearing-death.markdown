@@ -44,4 +44,6 @@ When you are on your deathbed, what others think of you is a long way from your 
 
 <strong>Update June 7th, 2013: This is a great video on the subject.</strong>
 
+<div class="video-wrapper">
 <iframe src="http://embed.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
