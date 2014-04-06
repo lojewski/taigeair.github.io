@@ -3,10 +3,12 @@ layout: default
 title: taigeair - Exploring the world. Working in tech. 
 ---
 
-<div id="about">
+<div class="pages">
   <h1>About</h1>
-  <p>I'm a product manager at OANDA in Toronto.</p>
-  <p>What I did.</p>
+  <div id="hello"></div>
+  <p class="c">I'm a product manager at OANDA in Toronto. Originally from China, I love learning about the world and technologies, experiencing new cultures, and building things from my imagination. I come from a long line of sailors.</p>
+  <p></p>
+  <div class="divider"></div>
   <a name="index"><h2 class="index-list">Articles on this site</h2></a>
 
   <ul class="index-list">
@@ -15,3 +17,8 @@ title: taigeair - Exploring the world. Working in tech.
     {% endfor %}
   </ul>
 </div>
+
+<script type="text/javascript">
+$('.bio-photo, .bio-bottom, .dolla').hide();
+$("p:contains('Exploring the world. Product manager at tech company. Mapmaker at Wellingtons Travel Co.')").remove();
+</script>

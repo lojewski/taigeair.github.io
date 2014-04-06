@@ -8,8 +8,9 @@ title: taigeair - Exploring the world. Working in tech.
   <ul class="posts">
     {% for post in site.posts limit: 1 %}
     <li>
-	    <a href="{{post.url}}"><h1>{{ post.title }}</h1></a>
 	    <div class="post">
+      <a href="{{post.url}}"><h1>{{ post.title }}</h1></a>
+
 	    {{ post.content }}
 
 	    </div>

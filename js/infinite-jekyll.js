@@ -80,7 +80,7 @@ $(function() {
     // If we've scrolled past the loadNewPostsThreshold, fetch posts
     if ((documentHeight - loadNewPostsThreshold) < bottomScrollPosition) {
       fetchPosts();
-      imgCheck();
+      //imgCheck();
     }
   });
   
@@ -143,7 +143,7 @@ jQuery(document).ready(function(){
 
       // re-size image 
 
-      imgCheck();
+      //imgCheck();
 
       //when scroll past point, make full width
       var headerPosition = jQuery('.dolla').offset().top;

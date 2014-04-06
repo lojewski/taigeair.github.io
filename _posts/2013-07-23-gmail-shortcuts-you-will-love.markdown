@@ -85,30 +85,34 @@ Yours will look like this right now.</p>
 <center><h2>Gmail Tips Appendix <span id="show-apx">(<a style="cursor:pointer;" onclick="show();">click to show</a>)</span></h2></center>
 
 <div id="gmail-appendix" style="display:none;">
+
 <strong>While in Inbox View or on a Thread</strong>
-Compose: c
-Archive: y (basically removes inbox label)
+
+<p>Compose: c</p>
+<p>Archive: y (basically removes inbox label)
 Delete selected emails: # (<a href="http://www.rottentomatoes.com/m/olympus_has_fallen_2013/quotes/">shift + 3</a>)
-Mute: m (<a href="https://support.google.com/mail/answer/47787?hl=en">skips the inbox for new messages in the thread unless directed to you</a>)
+Mute: m (<a href="https://support.google.com/mail/answer/47787?hl=en">skips the inbox for new messages in the thread unless directed to you</a>)</p>
 
 <strong>Whilst Editing an Email</strong>
-Since it's so hard to format your emails with buttons now, I guess it's time to invest in learning these shortcuts. Still nothing for changing font color, background, etc.
 
-Go back to inbox: u
-Reply: r
-Forward: f
-Reply all: a
+<p>Since it's so hard to format your emails with buttons now, I guess it's time to invest in learning these shortcuts. Still nothing for changing font color, background, etc.</p>
 
-Formatting
-Insert a link: cmd + k
-Indent: cmd + ]
-Un-Indent: cmd + [
-Bold: cmd + b
-Italic: cmd + i
-Bulleted list: cmd + shift + 8 :	
-Quote: cmd + shift + 9 :
+<p>Go back to inbox: u <br>
+Reply: r <br>
+Forward: f <br>
+Reply all: a</p>
 
-You can type "?" in gmail to see available shortcuts anytime as long as you're not composing.
+<p>Formatting <br>
+Insert a link: cmd + k <br>
+Indent: cmd + ]<br>
+Un-Indent: cmd + [<br>
+Bold: cmd + b<br>
+Italic: cmd + i<br>
+Bulleted list: cmd + shift + 8 :	<br>
+Quote: cmd + shift + 9 :</p>
+
+<p>You can type "?" in gmail to see available shortcuts anytime as long as you're not composing.
+</p>
 </div>
 
 <script type="text/javascript">
