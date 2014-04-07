@@ -125,11 +125,15 @@ Did you understand you'd be getting a widget for your website?</p>
 <p><strong>Checklists for your usability study.</strong>&nbsp;Get it <a href="http://www.scribd.com/doc/132504143/Web-Usability-Test-Checklists-Don-t-Make-Me-Think-by-Steve-Krug" target="_blank">here</a>.</p>
 <p><strong>Template for planning usability study.</strong> Get it <a href="http://www.scribd.com/doc/132547427/Chapter-05-Test-Plans-and-Designs" target="_blank">here</a>.&nbsp;More templates on <a href="http://www.usability.gov/templates/">usability.gov</a></p>
 <p><strong>Example of an expert conducting a usability study for Zipcar.</strong> See it on <a href="http://www.youtube.com/watch?v=QckIzHC99Xc">YouTube</a>.</p>
-<div class="video-wrapper"><iframe frameborder="0" height="360" src="http://www.youtube.com/embed/QckIzHC99Xc" width="480"></iframe></center>
-<p><strong>&nbsp;</strong></p>
+
+<div class="video-wrapper"><iframe frameborder="0" src="http://www.youtube.com/embed/QckIzHC99Xc"></iframe></div>
+
 <p><strong>Example of usability study process for Boxee.</strong> Read the article <a href="http://uxmag.com/articles/the-ux-design-process-for-the-boxee-beta" target="_blank">here</a>.&nbsp;</p>
+
 <p><strong>UX Books, classes, people and more.</strong></p>
+
 <blockquote>
+
 <p>This is a&nbsp;prerequisite for starting out in user experience.&nbsp;<a href="http://www.amazon.com/gp/product/0465067107?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=0465067107&amp;linkCode=shr&amp;tag=torontot-20" target="_blank">The Design of Everyday Things</a> by Donald A. Norman.&nbsp;Here's a <a href="http://www.usabilitypost.com/2010/11/17/the-design-of-everyday-things/" target="_blank">nice review</a>.&nbsp;</p>
 <p>This is the most respected web usability guide. <a href="http://www.amazon.com/gp/product/0321344758?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=0321344758&amp;linkCode=shr&amp;tag=torontot-20" target="_blank">Don't Make Me Think: A Common Sense Approach to Web Usability</a>&nbsp;by Steve Krug.</p>
 <p><a href="http://alistapart.com/article/usability-testing-demystified" target="_blank">Usability Testing Demystified</a> by Dana Chisnell. She also has several great articles on <a href="http://uxmag.com/articles/beyond-task-completion-flow-in-design" target="_blank">UX Magazine</a> and <a href="http://www.usabilityworks.net/" target="_blank">her website</a>.</p>
@@ -137,10 +141,10 @@ Did you understand you'd be getting a widget for your website?</p>
 <p><a href="http://hackdesign.org/" target="_blank">Hack Design</a>. An easy to follow design course for hackers who do amazing things.<br /></p>
 <p>Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests, 2nd Edition (<a href="http://ca.wiley.com/WileyCDA/WileyTitle/productCd-0470185481,descCd-DOWNLOAD.html" target="_blank">Downloadable sample eBook</a>&nbsp;or on <a href="http://www.amazon.com/gp/product/0470185481?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=0470185481&amp;linkCode=shr&amp;tag=torontot-20" target="_blank">Amazon</a>)&nbsp;by Jeffrey Rubin and Dana Chisnell</p>
 <p><a href="https://twitter.com/whitneyhess" target="_blank">Whitney Hess</a> is a UX designer who has really gone out of her way to help aspiring UX designers and people interested in this field like me. Some good ones:&nbsp;<a href="http://whitneyhess.com/blog/2009/06/30/so-you-wanna-be-a-user-experience-designer-step-1-resources/" target="_blank">So you want to be a user experience designer</a>,&nbsp;<a href="http://whitneyhess.com/blog/2011/04/23/youre-not-a-user-experience-designer-if/" target="_blank">You're not a user experience designer if</a>,&nbsp;<a href="http://whitneyhess.com/resources/" target="_blank">Whitney Hess's recommend UX resources</a>, and&nbsp;<a href="https://twitter.com/whitneyhess/uxers" target="_blank">UXers Twitter List</a>.</p>
-<p>This is my Usability Toolkit shared folder where I keep a lot of my resources for user experience design.&nbsp;Say hi and <a href="http://twitter.com/taigeair" target="_blank">get in touch over Twitter</a>&nbsp;if you want to be a&nbsp;collaborator. &nbsp; &nbsp;</p>
+<p>This is my Usability Toolkit shared folder where I keep a lot of my resources for user experience design.&nbsp;Say hi and <a href="http://twitter.com/taigeair" target="_blank">get in touch over Twitter</a> if you want to be a collaborator.</p>
 </blockquote>
-<div class="video-wrapper"><iframe frameborder="0" height="400" src="https://www.box.com/embed_widget/aee37e77d505/s/hyvbz37wzk3x70idcugr?view=list&amp;sort=name&amp;direction=ASC&amp;theme=blue" width="500"></iframe>
-</center>
+<div class="video-wrapper"><iframe frameborder="0" src="https://www.box.com/embed_widget/aee37e77d505/s/hyvbz37wzk3x70idcugr?view=list&amp;sort=name&amp;direction=ASC&amp;theme=blue"></iframe>
+</div>
 
 <p>---</p>
 <p>Taige Zhang is a Product Marketer at Kera. You can follow him on Twitter&nbsp;<a href="https://twitter.com/taigeair" target="_blank">@taigeair</a>.&nbsp;</p>

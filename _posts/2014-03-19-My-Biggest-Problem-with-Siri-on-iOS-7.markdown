@@ -14,3 +14,4 @@ categories: tech
 </center>
 <p>I really don’t understand why Apple did this. Sure, translucency is cool and hip, but this is so unhelpful. There’s not even a way to turn this off.</p>
 <p>Still waiting for a solution. Even this would be better. I hope I don’t need a smart watch just to read off my screen and talk to Siri at the same time.</p>
+
