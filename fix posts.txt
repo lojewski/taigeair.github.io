@@ -1,7 +1,0 @@
-fix posts
-fix width when full screen
-reduce font size
-404 page
-rss
-
-+ post ad for roommate
