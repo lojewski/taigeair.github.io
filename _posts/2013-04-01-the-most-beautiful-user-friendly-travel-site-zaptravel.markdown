@@ -21,9 +21,9 @@ It's brillant visually. Its top sights to see section uses user-generated conten
 I think there's a lot of great potential for this startup, could be like Kayak one day. At this point though, its semantic search isn't very impressive and deals are often "no longer available". I think these issues will get better over time but it is still a very impressive site overall.
 
 Check out their explainer video:
-<center>
+<div class="video-wrapper">
 <iframe src="http://player.vimeo.com/video/59862588" width="500" height="367" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-</center>
+</div>
 
 To me, ZapTravel wants to be the best by combining inspiring travel sites such as <a href="http://www.bbc.com/travel" target="_blank">BBC Travel</a> or <a href="http://www.isango.com/" target="_blank">Isango</a>, "travel deal" sites such as <a href="http://www.lastminute.com/" target="_blank">lastminute.com</a> and "booking travel" sites. It's an ambitious goal but they're off to a good start. 
 
