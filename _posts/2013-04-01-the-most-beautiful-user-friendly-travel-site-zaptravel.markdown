@@ -22,11 +22,14 @@ I think there's a lot of great potential for this startup, could be like Kayak o
 
 Check out their explainer video:
 <div class="video-wrapper">
-<iframe src="http://player.vimeo.com/video/59862588" width="500" height="367" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/59862588" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
-
+<p>
 To me, ZapTravel wants to be the best by combining inspiring travel sites such as <a href="http://www.bbc.com/travel" target="_blank">BBC Travel</a> or <a href="http://www.isango.com/" target="_blank">Isango</a>, "travel deal" sites such as <a href="http://www.lastminute.com/" target="_blank">lastminute.com</a> and "booking travel" sites. It's an ambitious goal but they're off to a good start. 
-
+</p>
+<p>
 I'm very excited about this startup and intrigued by its distributed team. I wonder how it'll work out. I also love the idea, they're not ignoring Europe's huge travel opportunity and setting up shop there early. I think it'll be hard for Rocket Internet to clone this one, assuming it's worth cloning but I think it is.
-
+</p>
+<p>
 I've just followed them on Twitter and you can follow them as well <a href="https://twitter.com/Zaptravel" target="_blank">here</a>.
+</p>
