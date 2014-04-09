@@ -6,7 +6,7 @@ date:   2012-10-18 14:33:19
 categories: life
 ---
 
-<div class="video-wrapper"><iframe width="600" height="480" src="http://www.youtube.com/embed/QphglQu3oL0" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-wrapper"><iframe width="600" height="480" src="http://www.youtube.com/embed/QphglQu3oL0" frameborder="0" allowfullscreen></iframe></div>
 
 I'm now in Canada. I recently joined a really amazing startup called Kera. It is the best way to teach someone how to use your app or website online. Check out the demo: <a href="https://www.kera.io/" target="_blank">kera.io</a> 
 
