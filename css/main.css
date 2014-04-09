@@ -700,6 +700,18 @@ a:active { color: tomato;
   width: 100%;
 }
 
+.artIndex {
+	position: fixed;
+	display: inline;
+	font-family: Oxygen;
+	font-size: .78em;
+	border-radius: 3px;
+	text-decoration: none;
+	background-color: #21dcc7;
+	opacity: 0.5;
+	color: black;
+}
+
 .go-top {
 display: inline;
 font-family: Oxygen;

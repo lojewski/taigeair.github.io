@@ -72,13 +72,13 @@ Files are hosted in China which can be pretty cool but for me it means slower do
 
 The first field is email and second is password.
 
-<center><img src="{{site.url}}/assets/posts/2013-09-11-2327262.png" alt="mobile app" ></center>
+<center><img src="{{site.url}}/assets/posts/baidu-pan-signup-mobile.png" alt="mobile app" ></center>
 
 <strong>4. Claim space</strong>
 
 Go back to pan.baidu.com and then click on claim space.
 
-<center><img src="{{site.url}}/assets/posts/Baidu-Pan-Home1-1024x666.png" alt="Baidu Pan Home" ></center>
+<center><img src="{{site.url}}/assets/posts/baidu-pan-home.png" alt="Baidu Pan Home" ></center>
 
 <center><img src="{{site.url}}/assets/posts/Claim-Promo1-1024x666.png" alt="Claim Promo"></center>
 
