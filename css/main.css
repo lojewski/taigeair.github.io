@@ -375,7 +375,7 @@ h2 > a:hover:before, .title a:hover:before {
 }
 
 
-.post img{
+.post img, img.post {
   width: 100%;
   max-width: 950px;
   margin: 2em 0;
@@ -711,18 +711,12 @@ padding: 12px 25px 9px 10px;
 opacity: 0.5;
 color: black;
   transition-delay: 0.2;
-
   -webkit-transition-delay: 0.2;
   -moz-transition-delay: 0.2;
   -ms-transition-delay: 0.2;
   -o-transition-delay: 0.2;
 }
 
-.go-top:hover {
-
-padding: 12px 10px 9px 10px;
-
-}
 a.go-top:hover {
 color: white;
 }
@@ -748,7 +742,8 @@ color: white;
 }
 
 div.top:hover div {
-        top: -70px;
+        -webkit-transform: translateY(-35px);
+		transform: translateY(-35px);
         color: white;
         opacity: 0;
 }
