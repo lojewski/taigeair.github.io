@@ -701,13 +701,56 @@ a:active { color: tomato;
 }
 
 .go-top {
+display: inline;
+font-family: Oxygen;
+font-size: .78em;
 border-radius: 3px;
 text-decoration: none;
 background-color: #21dcc7;
-padding: 6px 12px 7px;
+padding: 12px 25px 9px 10px;
 opacity: 0.5;
-font-size: 14px;
 color: black;
+  transition-delay: 0.2;
+
+  -webkit-transition-delay: 0.2;
+  -moz-transition-delay: 0.2;
+  -ms-transition-delay: 0.2;
+  -o-transition-delay: 0.2;
+}
+
+.go-top:hover {
+
+padding: 12px 10px 9px 10px;
+
+}
+a.go-top:hover {
+color: white;
+}
+
+.arrow {
+  color: black;
+  font-size: 20px;
+  opacity: .5;
+  font-family: sans-serif;
+  position: relative;
+  top: -31px;
+  left: 90px;
+  transition: .3s all;
+  -webkit-transition: .3s all;
+  -moz-transition: .3s all;
+  -ms-transition: .3s all;
+  -o-transition: .3s all;
+  transition-delay: 0.1;
+  -webkit-transition-delay: 0.1;
+  -moz-transition-delay: 0.1;
+  -ms-transition-delay: 0.1;
+  -o-transition-delay: 0.1;
+}
+
+div.top:hover div {
+        top: -70px;
+        color: white;
+        opacity: 0;
 }
 
 .top.pre-animation {
