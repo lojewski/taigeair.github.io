@@ -46,7 +46,9 @@
     <body>
         <div class="site">
           <div class="top pre-animation"><a class="go-top" style="display: inline;">Go Up Box</a><div class="arrow">↑</div></div>
-          <div class="artIndex pre-animation"><a href="{{site.url}}about/#index">Article Index</a><div class="arrow">↑</div></div>
+			{% if page.type == "front" %}
+			<div class="artIndex pre-animation"><a href="{{site.url}}about/#index">Index of Articles</a></div>
+          {% endif %}
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
             <p>Exploring the world. Product manager at tech company. Mapmaker at Wellingtons Travel Co.</p>
@@ -61,8 +63,6 @@
               </ul>
             </div>
             <div class="dolla">
-            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-            <!-- small unit -->
             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
             <!-- taige subtle -->
             <ins class="adsbygoogle"

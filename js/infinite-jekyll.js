@@ -155,10 +155,14 @@ jQuery(document).ready(function(){
       jQuery('.main').addClass('grow');
       jQuery('.header').addClass('shrink');
       jQuery('.top').removeClass('pre-animation');
+      jQuery('.artIndex').removeClass('pre-animation');
+
       } else {
       jQuery('.main').removeClass('grow');
       jQuery('.header').removeClass('shrink');
       jQuery('.top').addClass('pre-animation');
+      jQuery('.artIndex').addClass('pre-animation');
+
         }
 
 
