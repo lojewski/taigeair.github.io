@@ -479,20 +479,12 @@ blockquote > p {
   padding: 0;
 }
 
-#hello{
-  -webkit-filter: sepia(66%);
-  margin: 0 auto;
-  background-size: cover;
-  background-position-x: -12px;
-  background-position-y: 1px;
-  background-image: url('../assets/taige.jpg');
-  width: 12em;
-  height: 12em;
-  /* border: 1px solid black; */
-  border-radius: 9999px;
-  border: 1px solid rgba(3, 33, 33, .2);
-  -webkit-background-clip: padding-box;
-  background-clip: padding-box;
+#hello {
+margin: 0 auto;
+background-image: url('../assets/taige.png');
+width: 13em;
+height: 13em;
+background-size: 100%;
 }
 
 .divider {
