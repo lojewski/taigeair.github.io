@@ -48,7 +48,7 @@
     <body>
         <div class="site">
           <div class="top pre-animation"><a class="go-top" style="display: inline;" alt="AD joke">Go Up Box</a><div class="arrow">↑</div></div>
-			{% if page.type == "front" %}
+			{% if page.type == "post" or page.type == "front" %}
 			<div class="artIndex pre-animation"><a href="{{site.url}}about/#index">Index of Articles</a></div>
           {% endif %}
           <div class="header">

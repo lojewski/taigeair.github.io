@@ -333,15 +333,21 @@ h2 > a:hover:before, .title a:hover:before {
   overflow: hidden;
 }
 
+.pages h1, h2, p {
+	font-family: 'Oxygen', sans-serif;
+	text-align: center;
+}
+
 .pages h1 {
-  font-family: 'Oxygen', sans-serif;
-  text-transform: uppercase;
-  font-weight: 300;
+	text-transform: uppercase;
+	font-weight: 300;
+	margin-bottom: 99px;
 }
 
 .pages h2 {
-  font-size: 1.1em;
-  font-weight: 200;
+	margin-top: 99px;
+	font-size: 1.61em;
+	font-weight: 200;
 }
 
 .pages {
